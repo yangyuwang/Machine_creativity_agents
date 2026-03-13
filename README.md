@@ -20,6 +20,20 @@ The project consists of three main components:
 
 ## Folder Structure
 
-Need to have the code abstract structure (no need to have very detailed)
+Code/
+
+Contains all the code used in this project, organized into three main folders:
+
+1. Code/1steering/
+
+   This folder contains the notebook used to train the diffusion model, analyze internal representations, identify important neurons, and demonstrate interactive steering of image attributes.
+   
+3. Code/2RL/
+
+   This folder contains notebooks used to define evaluation metrics, design RL rewards, train reinforcement learning models, and evaluate performance.
+
+3. Code/3simulation/
+
+   This folder contains python files, configuration files and outputs of the exposure -> leanring -> creation -> redistribution -> exposure loop for agent creation.
 
 
