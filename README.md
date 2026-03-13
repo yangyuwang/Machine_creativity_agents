@@ -2,9 +2,9 @@
 
 Final project for UChi MACS37005 AI Agents for Social Science & Society
 
-Author: 
+Author: Yangyu Wang, Qiuyi Yu, Yanjing Li, Yanran Qiu
 
-Date: 
+Date: March 13, 2026
 
 ## Overview
 
@@ -14,9 +14,9 @@ The project consists of three main components:
 
 1. **Steering Module**: Mechanistic interpretability research using causal tracing between clean and creative prompts on a latent diffusion model trained on historical European paintings.
 
-2. **Reinforcement Learning Module**: 
+2. **Reinforcement Learning Module**: Reinforcement learning (RL) in improving machine creativity by optimizing creativity directly as an external objective.
 
-3. **Simulation Module**: An agent-based model that simulates artistic evolution and patronage dynamics ...
+3. **Simulation Module**: An agent-based model that simulates artistic evolution and patronage dynamics.
 
 ## Folder Structure
 
