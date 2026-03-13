@@ -1,0 +1,34 @@
+round,node_id,strategy,prompt,image_path,artist_type,learning_mode,gallery_ids,decoded_caption,decoded_tags,base_prompt,create_provider,create_model,decode_provider,decode_model,feedback_I,feedback_S,feedback_M
+4,30,diff,"Renaissance painting, oil on panel aesthetic, round 4, node 30, civic procession in an italian city, church guild workshop discipline, canonical iconography, conservative composition, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. subtle influence from ```json, ""tags"": [""Nativity"".",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195143-config_env_plus_artist-t40-sp2x4-gk120/e2-s3-r1-norm_only-self_consistency_only-rr0p00/generated/round_0004/node_0030.png,master,self_consistency,5|74|71|54,"```json
+[
+    {
+        ""caption"": ""A serene depiction of the Nativity scene with Mary and baby Jesus surrounded by angels and animals."",
+        ""tags"": [""Nativity"", ""Mary"", ""Jesus"", ""Angels"", ""Renaissance""]
+    },
+    {
+        ""caption"": ""A somber portrayal of Christ with a crown of thorns, empha","```json|""tags"": [""Nativity""|""Mary""|""Jesus""|""Angels""","Renaissance painting, oil on panel aesthetic, round 4, node 30, civic procession in an italian city, church guild workshop discipline, canonical iconography, conservative composition, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.0,1.2,0.8
+4,43,conform,"Renaissance painting, oil on panel aesthetic, round 4, node 43, merchant patron family group portrait, church guild workshop discipline, canonical iconography, conservative composition, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail. subtle influence from ```json, ""tags"": [""Renaissance"".",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195143-config_env_plus_artist-t40-sp2x4-gk120/e2-s3-r1-norm_only-self_consistency_only-rr0p00/generated/round_0004/node_0043.png,master,self_consistency,146|190|173|196,"```json
+[
+    {
+        ""caption"": ""A delicate line drawing depicting religious figures in a serene composition."",
+        ""tags"": [""Renaissance"", ""drawing"", ""religious"", ""linework"", ""serene""]
+    },
+    {
+        ""caption"": ""A vibrant painting of the Madonna and Child surrounded by angels in a heav","```json|""tags"": [""Renaissance""|""drawing""|""religious""|""linework""","Renaissance painting, oil on panel aesthetic, round 4, node 43, merchant patron family group portrait, church guild workshop discipline, canonical iconography, conservative composition, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.0,1.2,0.8
+4,125,diff,"Renaissance painting, oil on panel aesthetic, round 4, node 125, civic procession in an italian city, church guild workshop discipline, canonical iconography, conservative composition, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. subtle influence from ```json, ""tags"": [""portrait"".",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195143-config_env_plus_artist-t40-sp2x4-gk120/e2-s3-r1-norm_only-self_consistency_only-rr0p00/generated/round_0004/node_0125.png,master,self_consistency,122|134|42|17,"```json
+[
+    {
+        ""caption"": ""Portrait of a man with a ruffled collar and dark attire."",
+        ""tags"": [""portrait"", ""Renaissance"", ""ruffled collar"", ""dark attire"", ""male""]
+    },
+    {
+        ""caption"": ""Portrait of a woman with a tall headdress and intricate necklace."",
+        ""tags"": [""p","```json|""tags"": [""portrait""|""Renaissance""|""ruffled collar""|""dark attire""","Renaissance painting, oil on panel aesthetic, round 4, node 125, civic procession in an italian city, church guild workshop discipline, canonical iconography, conservative composition, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.0,1.2,0.8
+4,76,conform,"Renaissance painting, oil on panel aesthetic, round 4, node 76, religious narrative scene, church guild workshop discipline, canonical iconography, conservative composition, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail. subtle influence from ```json, with a central figure ascending stairs."".",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195143-config_env_plus_artist-t40-sp2x4-gk120/e2-s3-r1-norm_only-self_consistency_only-rr0p00/generated/round_0004/node_0076.png,master,self_consistency,6|170|25|175,"```json
+[
+    {
+        ""caption"": ""A religious scene depicting figures in vibrant robes, with a central figure ascending stairs."",
+        ""tags"": [""Renaissance"", ""religious"", ""vibrant"", ""figures"", ""stairs""]
+    },
+    {
+        ""caption"": ""A detailed portrait of a man with a circular frame and ins","```json|with a central figure ascending stairs.""|""tags"": [""Renaissance""|""religious""|""vibrant""","Renaissance painting, oil on panel aesthetic, round 4, node 76, religious narrative scene, church guild workshop discipline, canonical iconography, conservative composition, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.0,1.2,0.8

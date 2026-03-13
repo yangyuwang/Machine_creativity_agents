@@ -1,0 +1,22 @@
+round,generated_count,prompt_unique_ratio,rgb_std_mean,center_deviation_proxy,share_imitation,share_differentiation,share_self_consistency,decoded_top_tags
+0,4,1.0,36.818695205794484,0.15924413074714006,0.0,1.0,0.0,"```json|""tags"": [""renaissance""|""sketch""|""portrait""|""delicate"""
+2,4,1.0,58.261951047871,0.2030832575641608,0.0,1.0,0.0,"```json|""tags"": [""renaissance""|set against a golden background.""|""religious""|""bishop"""
+4,4,1.0,44.397674007874855,0.1657540282830213,0.0,1.0,0.0,"```json|""caption"": ""a nativity scene with mary|joseph|angels|and the infant jesus in a manger."""
+6,4,1.0,37.68654613178006,0.14862413116895182,0.0,1.0,0.0,"```json|""tags"": [""battle""|""historical""|""religious""|""soldiers"""
+8,4,1.0,43.64320134484511,0.1363684760380382,0.0,1.0,0.0,"renaissance|religious|detailed|```json|""child"""
+10,4,1.0,48.41983603540497,0.1673422125983073,0.0,1.0,0.0,"```json|""renaissance""|renaissance|religious|mythical"
+12,4,1.0,46.118427968114275,0.20810343575601736,0.0,1.0,0.0,"```json|""tags"": [""portrait""|""renaissance""|""tags"": [""woodcut""|""detailed"""
+14,4,1.0,40.065514994051064,0.18947372286735523,0.0,1.0,0.0,"```json|renaissance|symbolizing guidance and protection.""|""tags"": [""renaissance""|""mythology"""
+16,4,1.0,33.82221741610214,0.17477783765564758,0.0,1.0,0.0,"```json|""tags"": [""procession""|""clergy""|""architecture""|""renaissance"""
+18,4,1.0,33.09962984274961,0.21256378755458932,0.0,1.0,0.0,renaissance|religious|detailed|```json|portrait
+20,4,1.0,35.15616623534167,0.17443044202522737,0.0,1.0,0.0,"```json|""tags"": [""renaissance""|""tags"": [""medieval""|""siege""|""castle"""
+22,4,1.0,64.10678152494549,0.1879521452860352,0.0,1.0,0.0,"```json|""tags"": [""portrait""|""renaissance""|""realism""|draped in a blue and white veil."""
+24,4,1.0,50.438877290280736,0.144189162469255,0.0,1.0,0.0,```json|renaissance|religious|historical|vibrant
+26,4,1.0,57.93003451203341,0.1637648849641102,0.0,1.0,0.0,"```json|a saint|""tags"": [""religious""|""bishop""|""saint"""
+28,4,1.0,58.4162649415812,0.21935408148774754,0.0,1.0,0.0,"```json|""tags"": [""procession""|""clergy""|""architecture""|renaissance"
+30,4,1.0,32.49162415790311,0.18828562676739072,0.0,1.0,0.0,"```json|""religious""|""tags"": [""renaissance""|""dramatic""|""emotion"""
+32,4,1.0,47.67288536076221,0.18298593725198078,0.0,1.0,0.0,"```json|""renaissance""|""tags"": [""sculpture""|""relief""|""marble"""
+34,4,1.0,50.55056573730357,0.15097972244606972,0.0,1.0,0.0,"```json|""portrait""|""tags"": [""procession""|""clergy""|""renaissance"""
+36,4,1.0,33.86012820760886,0.18236149752176228,0.0,1.0,0.0,"```json|""tags"": [""renaissance""|""tags"": [""fresco""|""divine""|""dynamic"""
+38,4,1.0,53.65387459554933,0.1648792446510842,0.0,1.0,0.0,"```json|""religious""|""tags"": [""stained glass""|""crucifixion""|""renaissance"""
+40,4,1.0,40.73441907455082,0.12605211548571718,0.0,1.0,0.0,"```json|""tags"": [""stained glass""|""crucifixion""|""religious""|""vibrant"""

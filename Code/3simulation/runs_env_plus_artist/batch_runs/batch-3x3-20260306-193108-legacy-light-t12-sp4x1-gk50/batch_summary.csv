@@ -1,0 +1,8 @@
+run_id,status,round_final,modularity,in_degree_top10_share,gini_in_degree,cross_cluster_citation_rate,separation_ratio,share_conform_topK,share_diff_topK,payoff_conform_cum_mean,payoff_diff_cum_mean,topk_turnover_rate,generated_count,mode,strategy_policy,rebel_ratio,master_visibility_boost
+C1_lowRebel_equalExposure,ok,12,0.568460930767021,0.15234375,0.8292356004901962,0.4871794871794871,1.3411372308727525,,,,,0.0,1.0,dual_patronage,mixed,0.1,1.0
+C2_lowRebel_highMonopoly,ok,12,0.568460930767021,0.15234375,0.8292356004901962,0.4358974358974359,1.3411372308727525,,,,,0.0,1.0,dual_patronage,mixed,0.1,8.0
+C3_highRebel_equalExposure,ok,12,0.568460930767021,0.15234375,0.8292356004901962,0.4871794871794871,1.3411372308727525,,,,,0.0,1.0,dual_patronage,mixed,0.4,1.0
+C4_highRebel_highMonopoly,ok,12,0.568460930767021,0.15234375,0.8292356004901962,0.4871794871794871,1.3411372308727525,,,,,0.0,1.0,dual_patronage,mixed,0.4,8.0
+A1_imitationOnly,ok,12,0.5846956429630676,0.1581027667984189,0.8378477873362784,0.5263157894736842,1.4827927873956424,,,,,0.025,1.0,dual_patronage,imitation_only,0.0,3.0
+A2_differentiationOnly,ok,12,0.5698749364847809,0.1773584905660377,0.8371624121346652,0.5641025641025641,1.420435338230865,,,,,0.0,1.0,dual_patronage,differentiation_only,1.0,3.0
+A3_selfConsistencyOnly,ok,12,0.5337442732194919,0.1839080459770115,0.8395499962437083,0.5128205128205128,1.4666124211706242,,,,,0.025,1.0,dual_patronage,self_consistency_only,0.0,3.0

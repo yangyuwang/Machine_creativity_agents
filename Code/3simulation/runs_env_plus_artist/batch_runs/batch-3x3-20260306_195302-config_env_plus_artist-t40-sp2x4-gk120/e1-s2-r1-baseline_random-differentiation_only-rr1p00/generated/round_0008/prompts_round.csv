@@ -1,0 +1,36 @@
+round,node_id,strategy,prompt,image_path,artist_type,learning_mode,gallery_ids,decoded_caption,decoded_tags,base_prompt,create_provider,create_model,decode_provider,decode_model,feedback_I,feedback_S,feedback_M
+8,210,diff,"Renaissance painting, oil on panel aesthetic, round 8, node 210, religious narrative scene, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. opposite of (```json, ""tags"": [""Renaissance"", ""figures"", ""landscape""), anti-mainstream arrangement, unexpected composition, controlled dissonance.",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s2-r1-baseline_random-differentiation_only-rr1p00/generated/round_0008/node_0210.png,rebel,differentiation,115|26|139|91,"```json
+[
+    {
+        ""caption"": ""A vibrant scene depicting a group of elegantly dressed figures in a lush landscape."",
+        ""tags"": [""Renaissance"", ""figures"", ""landscape"", ""elegant"", ""vibrant""]
+    },
+    {
+        ""caption"": ""A detailed black and white depiction of soldiers and cherubs in a g","```json|""tags"": [""Renaissance""|""figures""|""landscape""|""elegant""","Renaissance painting, oil on panel aesthetic, round 8, node 210, religious narrative scene, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.4,0.6,0.8
+8,198,diff,"Renaissance painting, oil on panel aesthetic, round 8, node 198, mythological allegory with architecture, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. opposite of (```json, ""tags"": [""portrait"", ""Renaissance"", ""fashion""), anti-mainstream arrangement, unexpected composition, controlled dissonance.",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s2-r1-baseline_random-differentiation_only-rr1p00/generated/round_0008/node_0198.png,rebel,differentiation,45|124|50|74,"```json
+[
+    {
+        ""caption"": ""Portrait of a young woman with a red dress and intricate hairstyle."",
+        ""tags"": [""portrait"", ""Renaissance"", ""fashion"", ""elegance"", ""youth""]
+    },
+    {
+        ""caption"": ""Noblewoman in elaborate attire with a ruffled collar and floral adornments."",
+       ","```json|""tags"": [""portrait""|""Renaissance""|""fashion""|""elegance""","Renaissance painting, oil on panel aesthetic, round 8, node 198, mythological allegory with architecture, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.4,0.6,0.8
+8,146,diff,"Renaissance painting, oil on panel aesthetic, round 8, node 146, portrait in workshop interior, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail. opposite of (```json, ""tags"": [""engraving"", ""romantic"", ""medieval""), anti-mainstream arrangement, unexpected composition, controlled dissonance.",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s2-r1-baseline_random-differentiation_only-rr1p00/generated/round_0008/node_0146.png,rebel,differentiation,153|182|35|3,"```json
+[
+    {
+        ""caption"": ""A knight and a lady riding a horse through a forested landscape."",
+        ""tags"": [""engraving"", ""romantic"", ""medieval"", ""horse"", ""landscape""]
+    },
+    {
+        ""caption"": ""A somber depiction of a reclining figure in a narrow space."",
+        ""tags"": [""realism""","```json|""tags"": [""engraving""|""romantic""|""medieval""|""horse""","Renaissance painting, oil on panel aesthetic, round 8, node 146, portrait in workshop interior, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.4,0.6,0.8
+8,176,diff,"Renaissance painting, oil on panel aesthetic, round 8, node 176, religious narrative scene, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail. opposite of (```json, ""tags"": [""triptych"", ""Lamentation"", ""religious""), anti-mainstream arrangement, unexpected composition, controlled dissonance.",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s2-r1-baseline_random-differentiation_only-rr1p00/generated/round_0008/node_0176.png,rebel,differentiation,100|207|90|51,"```json
+[
+    {
+        ""caption"": ""A triptych depicting the Lamentation of Christ with surrounding figures."",
+        ""tags"": [""triptych"", ""Lamentation"", ""religious"", ""Renaissance"", ""figures""]
+    },
+    {
+        ""caption"": ""A bustling Renaissance street scene with a parade and onlookers."",
+      ","```json|""tags"": [""triptych""|""Lamentation""|""religious""|""Renaissance""","Renaissance painting, oil on panel aesthetic, round 8, node 176, religious narrative scene, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.4,0.6,0.8

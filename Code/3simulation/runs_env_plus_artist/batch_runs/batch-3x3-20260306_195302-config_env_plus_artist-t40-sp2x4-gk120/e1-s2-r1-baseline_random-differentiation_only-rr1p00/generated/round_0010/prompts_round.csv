@@ -1,0 +1,36 @@
+round,node_id,strategy,prompt,image_path,artist_type,learning_mode,gallery_ids,decoded_caption,decoded_tags,base_prompt,create_provider,create_model,decode_provider,decode_model,feedback_I,feedback_S,feedback_M
+10,90,diff,"Renaissance painting, oil on panel aesthetic, round 10, node 90, merchant patron family group portrait, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail. opposite of (```json, holding a staff."", ""tags"": [""Renaissance"", ""religious""), anti-mainstream arrangement, unexpected composition, controlled dissonance.",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s2-r1-baseline_random-differentiation_only-rr1p00/generated/round_0010/node_0090.png,rebel,differentiation,7|68|11|110,"```json
+[
+    {
+        ""caption"": ""A religious figure in ornate robes and a halo, holding a staff."",
+        ""tags"": [""Renaissance"", ""religious"", ""bishop"", ""halo"", ""ornate""]
+    },
+    {
+        ""caption"": ""A nobleman in elaborate armor with a young attendant."",
+        ""tags"": [""Renaissance"", ""nob","```json|holding a staff.""|""tags"": [""Renaissance""|""religious""|""bishop""","Renaissance painting, oil on panel aesthetic, round 10, node 90, merchant patron family group portrait, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.4,0.6,0.8
+10,11,conform,"Renaissance painting, oil on panel aesthetic, round 10, node 11, merchant patron family group portrait, random patronage baseline, heterogeneous workshops, uneven style pressure, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail. opposite of (```json, ""tags"": [""woodcut"", ""discussion"", ""Renaissance""), anti-mainstream arrangement, unexpected composition, controlled dissonance.",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s2-r1-baseline_random-differentiation_only-rr1p00/generated/round_0010/node_0011.png,rebel,differentiation,184|75|44|111,"```json
+[
+    {
+        ""caption"": ""Woodcut depicting a scene with three men in discussion."",
+        ""tags"": [""woodcut"", ""discussion"", ""Renaissance"", ""monochrome"", ""figures""]
+    },
+    {
+        ""caption"": ""Painting of the Madonna with child and two women."",
+        ""tags"": [""Madonna"", ""child"", ""R","```json|""tags"": [""woodcut""|""discussion""|""Renaissance""|""monochrome""","Renaissance painting, oil on panel aesthetic, round 10, node 11, merchant patron family group portrait, random patronage baseline, heterogeneous workshops, uneven style pressure, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.4,0.6,0.8
+10,8,conform,"Renaissance painting, oil on panel aesthetic, round 10, node 8, civic procession in an italian city, random patronage baseline, heterogeneous workshops, uneven style pressure, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. opposite of (```json, ""tags"": [""medieval"", ""castle"", ""siege""), anti-mainstream arrangement, unexpected composition, controlled dissonance.",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s2-r1-baseline_random-differentiation_only-rr1p00/generated/round_0010/node_0008.png,rebel,differentiation,136|4|92|10,"```json
+[
+    {
+        ""caption"": ""Medieval soldiers besieging a castle with a mountainous backdrop."",
+        ""tags"": [""medieval"", ""castle"", ""siege"", ""landscape"", ""historical""]
+    },
+    {
+        ""caption"": ""Gothic altarpiece depicting religious figures and scenes."",
+        ""tags"": [""gothic"", ""","```json|""tags"": [""medieval""|""castle""|""siege""|""landscape""","Renaissance painting, oil on panel aesthetic, round 10, node 8, civic procession in an italian city, random patronage baseline, heterogeneous workshops, uneven style pressure, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.4,0.6,0.8
+10,170,diff,"Renaissance painting, oil on panel aesthetic, round 10, node 170, mythological allegory with architecture, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. opposite of (```json, including a seated Madonna and Child, flanked by two saints."", ""tags"": [""Renaissance""), anti-mainstream arrangement, unexpected composition, controlled dissonance.",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s2-r1-baseline_random-differentiation_only-rr1p00/generated/round_0010/node_0170.png,rebel,differentiation,146|128|201|192,"```json
+[
+    {
+        ""caption"": ""A detailed sketch of religious figures, including a seated Madonna and Child, flanked by two saints."",
+        ""tags"": [""Renaissance"", ""sketch"", ""religious"", ""Madonna"", ""saints""]
+    },
+    {
+        ""caption"": ""A drawing of the Madonna holding the Child, surround","```json|including a seated Madonna and Child|flanked by two saints.""|""tags"": [""Renaissance""|""sketch""","Renaissance painting, oil on panel aesthetic, round 10, node 170, mythological allegory with architecture, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.4,0.6,0.8

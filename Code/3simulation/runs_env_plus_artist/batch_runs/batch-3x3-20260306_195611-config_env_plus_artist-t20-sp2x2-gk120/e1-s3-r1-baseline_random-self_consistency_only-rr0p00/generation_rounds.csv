@@ -1,0 +1,12 @@
+round,generated_count,prompt_unique_ratio,rgb_std_mean,center_deviation_proxy,share_imitation,share_differentiation,share_self_consistency,decoded_top_tags
+0,2,1.0,36.0234132681612,0.136559775474641,0.0,0.0,1.0,"```json|rich in color and detail.""|""tags"": [""renaissance""|""dynamic""|""colorful"""
+2,2,1.0,30.13448589152607,0.18559709203875202,0.0,0.0,1.0,renaissance|religious|detailed|portrait|manuscript
+4,2,1.0,44.01390866995335,0.11981693895356338,0.0,0.0,1.0,"```json|""tags"": [""sculpture""|""bronze""|""heroic""|""renaissance"""
+6,2,1.0,64.4859991192899,0.20114159974949086,0.0,0.0,1.0,"```json|""tags"": [""persian""|""court""|""king""|""historical"""
+8,2,1.0,63.90442826719037,0.23032176996712062,0.0,0.0,1.0,"```json|""dynamic""|""tags"": [""renaissance""|""religious""|""dramatic"""
+10,2,1.0,34.82326497369806,0.15852459893252246,0.0,0.0,1.0,"```json|""tags"": [""woodcut""|""historical""|""figures""|""conversation"""
+12,2,1.0,32.45476199486248,0.13655385267304032,0.0,0.0,1.0,"```json|""tags"": [""medieval""|""manuscript""|""execution""|""cityscape"""
+14,2,1.0,34.78370599984337,0.1949661633347109,0.0,0.0,1.0,"```json|""tags"": [""renaissance""|""drawing""|""botanical""|""decorative"""
+16,2,1.0,33.98838289102045,0.15134464832072037,0.0,0.0,1.0,"```json|""tags"": [""renaissance""|""portrait""|""detailed""|""expression"""
+18,2,1.0,32.5559628319432,0.16057513852576122,0.0,0.0,1.0,renaissance|religious|mythology|detailed|colorful
+20,2,1.0,37.93611375945528,0.13933510706796076,0.0,0.0,1.0,"```json|""tags"": [""engraving""|""mythology""|""animals""|""nature"""

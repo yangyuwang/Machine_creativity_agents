@@ -1,0 +1,5 @@
+round,generated_count,prompt_unique_ratio,rgb_std_mean,center_deviation_proxy,share_imitation,share_differentiation,share_self_consistency,decoded_top_tags
+0,1,1.0,44.04189982718853,0.12198482929915688,1.0,0.0,0.0,low-key lighting|soft contrast|warm palette|figurative composition|renaissance-inspired texture
+4,1,1.0,42.626135705309,0.2960838185082294,0.0,0.0,1.0,low-key lighting|dramatic contrast|warm palette|figurative composition|renaissance-inspired texture
+8,1,1.0,41.699273842678664,0.09428526662170023,1.0,0.0,0.0,low-key lighting|soft contrast|warm palette|figurative composition|renaissance-inspired texture
+12,1,1.0,43.64711126420741,0.2139439713377963,0.0,0.0,1.0,low-key lighting|soft contrast|warm palette|figurative composition|renaissance-inspired texture

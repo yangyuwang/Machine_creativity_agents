@@ -1,0 +1,35 @@
+round,node_id,strategy,prompt,image_path,artist_type,learning_mode,gallery_ids,decoded_caption,decoded_tags,base_prompt,create_provider,create_model,decode_provider,decode_model,feedback_I,feedback_S,feedback_M
+2,125,diff,"Renaissance painting, oil on panel aesthetic, round 2, node 125, mythological allegory with architecture, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. subtle influence from ```json, ""tags"": [""fresco"".",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s3-r1-baseline_random-self_consistency_only-rr0p00/generated/round_0002/node_0125.png,master,self_consistency,35|60|37|17,"```json
+[
+    {
+        ""caption"": ""A fresco depicting a group of figures in Renaissance attire engaged in conversation."",
+        ""tags"": [""fresco"", ""Renaissance"", ""figures"", ""attire"", ""conversation""]
+    },
+    {
+        ""caption"": ""A marble relief sculpture of a woman with two children, showcasin","```json|""tags"": [""fresco""|""Renaissance""|""figures""|""attire""","Renaissance painting, oil on panel aesthetic, round 2, node 125, mythological allegory with architecture, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.0,1.2,0.8
+2,186,diff,"Renaissance painting, oil on panel aesthetic, round 2, node 186, religious narrative scene, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. subtle influence from ```json, ""tags"": [""Renaissance"".",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s3-r1-baseline_random-self_consistency_only-rr0p00/generated/round_0002/node_0186.png,master,self_consistency,203|106|125|12,"```json
+[
+    {
+        ""caption"": ""An angel presenting a celestial sphere to a seated woman in a serene setting."",
+        ""tags"": [""Renaissance"", ""religious"", ""angel"", ""Madonna"", ""symbolism""]
+    },
+    {
+        ""caption"": ""A man with a crown of thorns and a red robe, holding a staff."",
+        ""","```json|""tags"": [""Renaissance""|""religious""|""angel""|""Madonna""","Renaissance painting, oil on panel aesthetic, round 2, node 186, religious narrative scene, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.0,1.2,0.8
+2,192,diff,"Renaissance painting, oil on panel aesthetic, round 2, node 192, merchant patron family group portrait, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. subtle influence from ```json, ""tags"": [""Renaissance"".",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s3-r1-baseline_random-self_consistency_only-rr0p00/generated/round_0002/node_0192.png,master,self_consistency,58|135|87|4,"```json
+[
+    {
+        ""caption"": ""A gathering of religious figures in ornate attire."",
+        ""tags"": [""Renaissance"", ""religion"", ""ceremony"", ""clergy"", ""ornate""]
+    },
+    {
+        ""caption"": ""A medieval manuscript with an illustration of a public execution."",
+        ""tags"": [""manuscript"", ""me","```json|""tags"": [""Renaissance""|""religion""|""ceremony""|""clergy""","Renaissance painting, oil on panel aesthetic, round 2, node 192, merchant patron family group portrait, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.0,1.2,0.8
+2,159,diff,"Renaissance painting, oil on panel aesthetic, round 2, node 159, mythological allegory with architecture, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. subtle influence from ```json, ""tags"": [""engraving"".",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s3-r1-baseline_random-self_consistency_only-rr0p00/generated/round_0002/node_0159.png,master,self_consistency,168|92|80|98,"```json
+[
+    {
+        ""caption"": ""A detailed engraving depicting the crucifixion with angels surrounding the scene."",
+        ""tags"": [""engraving"", ""crucifixion"", ""angels"", ""religious"", ""detailed""]
+    },
+    {
+        ""caption"": ""A vibrant painting showing a tender interaction between women and a","```json|""tags"": [""engraving""|""crucifixion""|""angels""|""religious""","Renaissance painting, oil on panel aesthetic, round 2, node 159, mythological allegory with architecture, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.0,1.2,0.8

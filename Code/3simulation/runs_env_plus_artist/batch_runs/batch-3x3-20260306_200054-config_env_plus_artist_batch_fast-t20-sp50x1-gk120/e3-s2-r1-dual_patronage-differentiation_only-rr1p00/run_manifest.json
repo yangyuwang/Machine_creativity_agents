@@ -1,0 +1,13 @@
+{
+  "created_at": "2026-03-06T20:18:05",
+  "pipeline": "env_plus_artist",
+  "mode": "dual_patronage",
+  "strategy_policy": "differentiation_only",
+  "T": 20,
+  "seed": 42,
+  "spawn_round_every": 50,
+  "spawn_per_round": 1,
+  "gen_top_k": 120,
+  "config_path": "/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_200054-config_env_plus_artist_batch_fast-t20-sp50x1-gk120/e3-s2-r1-dual_patronage-differentiation_only-rr1p00/run_config.json",
+  "output_dir": "/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_200054-config_env_plus_artist_batch_fast-t20-sp50x1-gk120/e3-s2-r1-dual_patronage-differentiation_only-rr1p00"
+}

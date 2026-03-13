@@ -1,0 +1,10 @@
+{
+  "images_dir": "images",
+  "output_dir": "runs_env_only/outputs",
+  "mode": "dual_patronage",
+  "T": 40,
+  "obs_every": 5,
+  "feedback_closed_loop": false,
+  "gen_engine": "none",
+  "vlm_enabled": false
+}

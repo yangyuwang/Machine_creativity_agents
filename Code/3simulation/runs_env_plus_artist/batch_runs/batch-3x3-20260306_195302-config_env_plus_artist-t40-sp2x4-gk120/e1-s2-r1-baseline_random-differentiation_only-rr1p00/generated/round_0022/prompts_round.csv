@@ -1,0 +1,35 @@
+round,node_id,strategy,prompt,image_path,artist_type,learning_mode,gallery_ids,decoded_caption,decoded_tags,base_prompt,create_provider,create_model,decode_provider,decode_model,feedback_I,feedback_S,feedback_M
+22,218,diff,"Renaissance painting, oil on panel aesthetic, round 22, node 218, portrait in workshop interior, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail. opposite of (```json, ""tags"": [""Renaissance"", ""engraving"", ""knight""), anti-mainstream arrangement, unexpected composition, controlled dissonance.",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s2-r1-baseline_random-differentiation_only-rr1p00/generated/round_0022/node_0218.png,rebel,differentiation,153|30|54|169,"```json
+[
+    {
+        ""caption"": ""A knight and lady on horseback in a detailed landscape."",
+        ""tags"": [""Renaissance"", ""engraving"", ""knight"", ""romantic"", ""landscape""]
+    },
+    {
+        ""caption"": ""A somber portrait of a man with a crown of thorns."",
+        ""tags"": [""Renaissance"", ""portrai","```json|""tags"": [""Renaissance""|""engraving""|""knight""|""romantic""","Renaissance painting, oil on panel aesthetic, round 22, node 218, portrait in workshop interior, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.4,0.6,0.8
+22,144,conform,"Renaissance painting, oil on panel aesthetic, round 22, node 144, mythological allegory with architecture, random patronage baseline, heterogeneous workshops, uneven style pressure, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail. opposite of (```json, ""tags"": [""Renaissance"", ""portrait"", ""royalty""), anti-mainstream arrangement, unexpected composition, controlled dissonance.",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s2-r1-baseline_random-differentiation_only-rr1p00/generated/round_0022/node_0144.png,rebel,differentiation,125|7|148|29,"```json
+[
+    {
+        ""caption"": ""Portrait of a Polish King in regal attire with a feathered hat."",
+        ""tags"": [""Renaissance"", ""portrait"", ""royalty"", ""Poland"", ""16th-century""]
+    },
+    {
+        ""caption"": ""Religious figure in ornate vestments holding a staff."",
+        ""tags"": [""Renaissanc","```json|""tags"": [""Renaissance""|""portrait""|""royalty""|""Poland""","Renaissance painting, oil on panel aesthetic, round 22, node 144, mythological allegory with architecture, random patronage baseline, heterogeneous workshops, uneven style pressure, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.4,0.6,0.8
+22,25,diff,"Renaissance painting, oil on panel aesthetic, round 22, node 25, portrait in workshop interior, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail. opposite of (```json, set in an architectural interior."", ""tags"": [""religious"", ""interior""), anti-mainstream arrangement, unexpected composition, controlled dissonance.",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s2-r1-baseline_random-differentiation_only-rr1p00/generated/round_0022/node_0025.png,rebel,differentiation,127|11|231|60,"```json
+[
+    {
+        ""caption"": ""A religious scene depicting a kneeling figure with a dove above, set in an architectural interior."",
+        ""tags"": [""religious"", ""interior"", ""dove"", ""kneeling"", ""architecture""]
+    },
+    {
+        ""caption"": ""A procession of figures in colorful attire, accompan","```json|set in an architectural interior.""|""tags"": [""religious""|""interior""|""dove""","Renaissance painting, oil on panel aesthetic, round 22, node 25, portrait in workshop interior, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.4,0.6,0.8
+22,193,diff,"Renaissance painting, oil on panel aesthetic, round 22, node 193, religious narrative scene, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail. opposite of (```json, ""tags"": [""engraving"", ""avarice"", ""chaos""), anti-mainstream arrangement, unexpected composition, controlled dissonance.",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s2-r1-baseline_random-differentiation_only-rr1p00/generated/round_0022/node_0193.png,rebel,differentiation,196|55|84|43,"```json
+[
+    {
+        ""caption"": ""A chaotic scene depicting the vice of avarice with various figures engaged in greedy activities."",
+        ""tags"": [""engraving"", ""avarice"", ""chaos"", ""allegory"", ""medieval""]
+    },
+    {
+        ""caption"": ""A richly decorated ceiling with religious frescoes depicti","```json|""tags"": [""engraving""|""avarice""|""chaos""|""allegory""","Renaissance painting, oil on panel aesthetic, round 22, node 193, religious narrative scene, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.4,0.6,0.8

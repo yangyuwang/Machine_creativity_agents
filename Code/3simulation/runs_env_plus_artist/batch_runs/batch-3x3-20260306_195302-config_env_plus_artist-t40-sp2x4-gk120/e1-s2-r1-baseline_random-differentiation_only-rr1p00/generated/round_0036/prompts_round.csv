@@ -1,0 +1,35 @@
+round,node_id,strategy,prompt,image_path,artist_type,learning_mode,gallery_ids,decoded_caption,decoded_tags,base_prompt,create_provider,create_model,decode_provider,decode_model,feedback_I,feedback_S,feedback_M
+36,61,diff,"Renaissance painting, oil on panel aesthetic, round 36, node 61, portrait in workshop interior, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail. opposite of (```json, holding a branch."", ""tags"": [""portrait"", ""dark""), anti-mainstream arrangement, unexpected composition, controlled dissonance.",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s2-r1-baseline_random-differentiation_only-rr1p00/generated/round_0036/node_0061.png,rebel,differentiation,214|48|258|52,"```json
+[
+    {
+        ""caption"": ""A contemplative portrait of a man in a dark setting, holding a branch."",
+        ""tags"": [""portrait"", ""dark"", ""realism"", ""Renaissance"", ""introspective""]
+    },
+    {
+        ""caption"": ""Intricate architectural sketch with dynamic figures and perspective."",
+       ","```json|holding a branch.""|""tags"": [""portrait""|""dark""|""realism""","Renaissance painting, oil on panel aesthetic, round 36, node 61, portrait in workshop interior, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.4,0.6,0.8
+36,120,diff,"Renaissance painting, oil on panel aesthetic, round 36, node 120, civic procession in an italian city, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail. opposite of (```json, with two other figures in the background."", ""tags"": [""biblical"", ""Renaissance""), anti-mainstream arrangement, unexpected composition, controlled dissonance.",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s2-r1-baseline_random-differentiation_only-rr1p00/generated/round_0036/node_0120.png,rebel,differentiation,251|126|124|0,"```json
+[
+    {
+        ""caption"": ""A biblical scene depicting a man in red robes gesturing towards a woman in yellow, with two other figures in the background."",
+        ""tags"": [""biblical"", ""Renaissance"", ""religious"", ""figures"", ""gesture""]
+    },
+    {
+        ""caption"": ""A depiction of the Holy T","```json|with two other figures in the background.""|""tags"": [""biblical""|""Renaissance""|""religious""","Renaissance painting, oil on panel aesthetic, round 36, node 120, civic procession in an italian city, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.4,0.6,0.8
+36,4,conform,"Renaissance painting, oil on panel aesthetic, round 36, node 4, merchant patron family group portrait, random patronage baseline, heterogeneous workshops, uneven style pressure, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail. opposite of (```json, set against a golden background."", ""tags"": [""religious"", ""bishop""), anti-mainstream arrangement, unexpected composition, controlled dissonance.",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s2-r1-baseline_random-differentiation_only-rr1p00/generated/round_0036/node_0004.png,rebel,differentiation,7|1|140|236,"```json
+[
+    {
+        ""caption"": ""A religious figure in ornate robes holding a staff, set against a golden background."",
+        ""tags"": [""religious"", ""bishop"", ""medieval"", ""iconography"", ""gold""]
+    },
+    {
+        ""caption"": ""A group of figures in a sacred setting, depicted in a traditional sty","```json|set against a golden background.""|""tags"": [""religious""|""bishop""|""medieval""","Renaissance painting, oil on panel aesthetic, round 36, node 4, merchant patron family group portrait, random patronage baseline, heterogeneous workshops, uneven style pressure, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.4,0.6,0.8
+36,126,conform,"Renaissance painting, oil on panel aesthetic, round 36, node 126, civic procession in an italian city, random patronage baseline, heterogeneous workshops, uneven style pressure, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail. opposite of (```json, capturing subtle emotions."", ""tags"": [""sketch"", ""portrait""), anti-mainstream arrangement, unexpected composition, controlled dissonance.",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s2-r1-baseline_random-differentiation_only-rr1p00/generated/round_0036/node_0126.png,rebel,differentiation,49|9|21|16,"```json
+[
+    {
+        ""caption"": ""A delicate sketch of a woman's face, capturing subtle emotions."",
+        ""tags"": [""sketch"", ""portrait"", ""Renaissance"", ""drawing"", ""emotion""]
+    },
+    {
+        ""caption"": ""A religious scene depicting the resurrection of Christ with figures in awe."",
+        ""ta","```json|capturing subtle emotions.""|""tags"": [""sketch""|""portrait""|""Renaissance""","Renaissance painting, oil on panel aesthetic, round 36, node 126, civic procession in an italian city, random patronage baseline, heterogeneous workshops, uneven style pressure, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.4,0.6,0.8

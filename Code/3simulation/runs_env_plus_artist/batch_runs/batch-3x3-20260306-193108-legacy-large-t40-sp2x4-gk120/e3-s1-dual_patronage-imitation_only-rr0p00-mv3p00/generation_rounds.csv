@@ -1,0 +1,22 @@
+round,generated_count,prompt_unique_ratio,rgb_std_mean,center_deviation_proxy,share_imitation,share_differentiation,share_self_consistency,decoded_top_tags
+0,4,1.0,39.871466943565295,0.15924413074714006,1.0,0.0,0.0,low-key lighting|warm palette|figurative composition|renaissance-inspired texture|soft contrast
+2,4,1.0,40.23821614862501,0.1535193568099104,1.0,0.0,0.0,low-key lighting|warm palette|figurative composition|renaissance-inspired texture|soft contrast
+4,4,1.0,40.460021264230946,0.12056147422275074,1.0,0.0,0.0,low-key lighting|warm palette|figurative composition|renaissance-inspired texture|dramatic contrast
+6,4,1.0,41.537907430425534,0.21502753908665903,1.0,0.0,0.0,low-key lighting|warm palette|figurative composition|renaissance-inspired texture|soft contrast
+8,4,1.0,40.4191220719963,0.19623499707770622,1.0,0.0,0.0,dramatic contrast|warm palette|figurative composition|renaissance-inspired texture|low-key lighting
+10,4,1.0,41.423892457990235,0.17769637982242084,1.0,0.0,0.0,low-key lighting|warm palette|figurative composition|renaissance-inspired texture|soft contrast
+12,4,1.0,40.70654527725149,0.19532374006246658,1.0,0.0,0.0,warm palette|figurative composition|renaissance-inspired texture|low-key lighting|dramatic contrast
+14,4,1.0,39.671438610879,0.21386284948543385,1.0,0.0,0.0,warm palette|figurative composition|renaissance-inspired texture|high-key lighting|soft contrast
+16,4,1.0,39.732827986476316,0.14481152309349926,1.0,0.0,0.0,soft contrast|warm palette|figurative composition|renaissance-inspired texture|low-key lighting
+18,4,1.0,40.312770186916694,0.20741930293349217,1.0,0.0,0.0,warm palette|figurative composition|renaissance-inspired texture|soft contrast|low-key lighting
+20,4,1.0,40.418333779120346,0.1881625435193454,1.0,0.0,0.0,warm palette|figurative composition|renaissance-inspired texture|low-key lighting|soft contrast
+22,4,1.0,42.574517252411056,0.20401035985418534,1.0,0.0,0.0,warm palette|figurative composition|renaissance-inspired texture|low-key lighting|soft contrast
+24,4,1.0,39.69970938028045,0.16978819358043082,1.0,0.0,0.0,warm palette|figurative composition|renaissance-inspired texture|low-key lighting|soft contrast
+26,4,1.0,39.35831967042531,0.18482949538090424,1.0,0.0,0.0,soft contrast|warm palette|figurative composition|renaissance-inspired texture|low-key lighting
+28,4,1.0,42.310315201214465,0.1866550663685598,1.0,0.0,0.0,warm palette|figurative composition|renaissance-inspired texture|low-key lighting|soft contrast
+30,4,1.0,39.79038495983055,0.17949790626268816,1.0,0.0,0.0,warm palette|figurative composition|renaissance-inspired texture|soft contrast|low-key lighting
+32,4,1.0,39.1627064544424,0.17881853412912202,1.0,0.0,0.0,soft contrast|warm palette|figurative composition|renaissance-inspired texture|high-key lighting
+34,4,1.0,39.911999640281216,0.18830107137286997,1.0,0.0,0.0,warm palette|figurative composition|renaissance-inspired texture|low-key lighting|soft contrast
+36,4,1.0,40.927415686101455,0.20567982665486909,1.0,0.0,0.0,soft contrast|warm palette|figurative composition|renaissance-inspired texture|low-key lighting
+38,4,1.0,40.93316570538375,0.1885679041753398,1.0,0.0,0.0,soft contrast|warm palette|figurative composition|renaissance-inspired texture|low-key lighting
+40,4,1.0,40.7091247692796,0.16571221817208262,1.0,0.0,0.0,soft contrast|warm palette|figurative composition|renaissance-inspired texture|high-key lighting

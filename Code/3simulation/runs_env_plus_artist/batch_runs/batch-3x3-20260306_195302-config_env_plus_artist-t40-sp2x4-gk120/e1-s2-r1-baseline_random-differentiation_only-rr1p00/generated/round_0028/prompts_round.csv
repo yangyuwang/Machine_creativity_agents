@@ -1,0 +1,35 @@
+round,node_id,strategy,prompt,image_path,artist_type,learning_mode,gallery_ids,decoded_caption,decoded_tags,base_prompt,create_provider,create_model,decode_provider,decode_model,feedback_I,feedback_S,feedback_M
+28,171,diff,"Renaissance painting, oil on panel aesthetic, round 28, node 171, religious narrative scene, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail. opposite of (```json, surrounded by other figures with halos."", ""tags"": [""religious"", ""fresco""), anti-mainstream arrangement, unexpected composition, controlled dissonance.",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s2-r1-baseline_random-differentiation_only-rr1p00/generated/round_0028/node_0171.png,rebel,differentiation,8|218|231|246,"```json
+[
+    {
+        ""caption"": ""A religious scene depicting a holy figure holding a child, surrounded by other figures with halos."",
+        ""tags"": [""religious"", ""fresco"", ""halos"", ""Renaissance"", ""devotional""]
+    },
+    {
+        ""caption"": ""A portrait of a man in a dark robe and hat, set in a","```json|surrounded by other figures with halos.""|""tags"": [""religious""|""fresco""|""halos""","Renaissance painting, oil on panel aesthetic, round 28, node 171, religious narrative scene, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.4,0.6,0.8
+28,156,conform,"Renaissance painting, oil on panel aesthetic, round 28, node 156, mythological allegory with architecture, random patronage baseline, heterogeneous workshops, uneven style pressure, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail. opposite of (```json, with banners and a crowd."", ""tags"": [""Renaissance"", ""procession""), anti-mainstream arrangement, unexpected composition, controlled dissonance.",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s2-r1-baseline_random-differentiation_only-rr1p00/generated/round_0028/node_0156.png,rebel,differentiation,225|199|150|177,"```json
+[
+    {
+        ""caption"": ""A grand procession through a Renaissance city street, with banners and a crowd."",
+        ""tags"": [""Renaissance"", ""procession"", ""cityscape"", ""crowd"", ""banners""]
+    },
+    {
+        ""caption"": ""A Persian miniature depicting a royal audience with vibrant colors and","```json|with banners and a crowd.""|""tags"": [""Renaissance""|""procession""|""cityscape""","Renaissance painting, oil on panel aesthetic, round 28, node 156, mythological allegory with architecture, random patronage baseline, heterogeneous workshops, uneven style pressure, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.4,0.6,0.8
+28,9,conform,"Renaissance painting, oil on panel aesthetic, round 28, node 9, mythological allegory with architecture, random patronage baseline, heterogeneous workshops, uneven style pressure, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail. opposite of (```json, ""tags"": [""Renaissance"", ""religious"", ""portrait""), anti-mainstream arrangement, unexpected composition, controlled dissonance.",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s2-r1-baseline_random-differentiation_only-rr1p00/generated/round_0028/node_0009.png,rebel,differentiation,30|202|54|125,"```json
+[
+    {
+        ""caption"": ""A somber depiction of Christ with a crown of thorns."",
+        ""tags"": [""Renaissance"", ""religious"", ""portrait"", ""Christ"", ""somber""]
+    },
+    {
+        ""caption"": ""An allegorical scene with figures and an angel in a classical setting."",
+        ""tags"": [""Renaissa","```json|""tags"": [""Renaissance""|""religious""|""portrait""|""Christ""","Renaissance painting, oil on panel aesthetic, round 28, node 9, mythological allegory with architecture, random patronage baseline, heterogeneous workshops, uneven style pressure, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.4,0.6,0.8
+28,219,diff,"Renaissance painting, oil on panel aesthetic, round 28, node 219, merchant patron family group portrait, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail. opposite of (```json, ""tags"": [""portrait"", ""workshop"", ""letter""), anti-mainstream arrangement, unexpected composition, controlled dissonance.",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s2-r1-baseline_random-differentiation_only-rr1p00/generated/round_0028/node_0219.png,rebel,differentiation,246|254|82|54,"```json
+[
+    {
+        ""caption"": ""A contemplative man in a workshop holding a sealed letter."",
+        ""tags"": [""portrait"", ""workshop"", ""letter"", ""Renaissance"", ""realism""]
+    },
+    {
+        ""caption"": ""A seated woman with a laurel wreath and a wheel, symbolizing fortune."",
+        ""tags"": [""all","```json|""tags"": [""portrait""|""workshop""|""letter""|""Renaissance""","Renaissance painting, oil on panel aesthetic, round 28, node 219, merchant patron family group portrait, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.4,0.6,0.8

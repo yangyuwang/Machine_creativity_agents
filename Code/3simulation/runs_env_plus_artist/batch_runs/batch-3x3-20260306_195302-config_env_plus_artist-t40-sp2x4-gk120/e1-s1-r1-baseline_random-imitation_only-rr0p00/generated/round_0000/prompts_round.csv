@@ -1,0 +1,67 @@
+round,node_id,strategy,prompt,image_path,artist_type,learning_mode,gallery_ids,decoded_caption,decoded_tags,base_prompt,create_provider,create_model,decode_provider,decode_model,feedback_I,feedback_S,feedback_M
+0,156,conform,"Renaissance painting, oil on panel aesthetic, round 0, node 156, religious narrative scene, random patronage baseline, heterogeneous workshops, uneven style pressure, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. inspired by visible gallery: ```json, ""tags"": [""Renaissance"", ""religious"". reference note: ```json
+[
+    {
+        ""caption"": ""A depiction of the crucifixion with figures gathered around the cross."",
+        ""tags"": [""Renaissance"", ""religious"", ""crucifixion"", ""figures"", ""cross""]
+    },
+    {
+        ""caption"": ""A scene of women and children in a lush landscape."",
+        ""tags"": [""Renaiss",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s1-r1-baseline_random-imitation_only-rr0p00/generated/round_0000/node_0156.png,follower,imitation,53|115|58|16,"```json
+[
+    {
+        ""caption"": ""A depiction of the crucifixion with figures gathered around the cross."",
+        ""tags"": [""Renaissance"", ""religious"", ""crucifixion"", ""figures"", ""cross""]
+    },
+    {
+        ""caption"": ""A scene of women and children in a lush landscape."",
+        ""tags"": [""Renaiss","```json|""tags"": [""Renaissance""|""religious""|""crucifixion""|""figures""","Renaissance painting, oil on panel aesthetic, round 0, node 156, religious narrative scene, random patronage baseline, heterogeneous workshops, uneven style pressure, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,2.0,0.6,1.6
+0,139,conform,"Renaissance painting, oil on panel aesthetic, round 0, node 139, civic procession in an italian city, random patronage baseline, heterogeneous workshops, uneven style pressure, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. inspired by visible gallery: ```json, ""tags"": [""Renaissance"", ""fresco"". reference note: ```json
+[
+    {
+        ""caption"": ""A powerful depiction of two figures in a dramatic embrace."",
+        ""tags"": [""Renaissance"", ""fresco"", ""anatomy"", ""emotion"", ""mythology""]
+    },
+    {
+        ""caption"": ""A musician in a natural setting, holding a string instrument."",
+        ""tags"": [""Renaissance",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s1-r1-baseline_random-imitation_only-rr0p00/generated/round_0000/node_0139.png,follower,imitation,186|77|191|68,"```json
+[
+    {
+        ""caption"": ""A powerful depiction of two figures in a dramatic embrace."",
+        ""tags"": [""Renaissance"", ""fresco"", ""anatomy"", ""emotion"", ""mythology""]
+    },
+    {
+        ""caption"": ""A musician in a natural setting, holding a string instrument."",
+        ""tags"": [""Renaissance","```json|""tags"": [""Renaissance""|""fresco""|""anatomy""|""emotion""","Renaissance painting, oil on panel aesthetic, round 0, node 139, civic procession in an italian city, random patronage baseline, heterogeneous workshops, uneven style pressure, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,2.0,0.6,1.6
+0,128,conform,"Renaissance painting, oil on panel aesthetic, round 0, node 128, mythological allegory with architecture, random patronage baseline, heterogeneous workshops, uneven style pressure, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. inspired by visible gallery: ```json, ""tags"": [""engraving"", ""travel"", ""landscape"". reference note: ```json
+[
+    {
+        ""caption"": ""A detailed engraving depicting travelers on a rugged path with a village in the background."",
+        ""tags"": [""engraving"", ""travel"", ""landscape"", ""village"", ""Renaissance""]
+    },
+    {
+        ""caption"": ""A dramatic scene with two figures in rich garments, set ag",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s1-r1-baseline_random-imitation_only-rr0p00/generated/round_0000/node_0128.png,follower,imitation,145|111|126|168,"```json
+[
+    {
+        ""caption"": ""A detailed engraving depicting travelers on a rugged path with a village in the background."",
+        ""tags"": [""engraving"", ""travel"", ""landscape"", ""village"", ""Renaissance""]
+    },
+    {
+        ""caption"": ""A dramatic scene with two figures in rich garments, set ag","```json|""tags"": [""engraving""|""travel""|""landscape""|""village""","Renaissance painting, oil on panel aesthetic, round 0, node 128, mythological allegory with architecture, random patronage baseline, heterogeneous workshops, uneven style pressure, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,2.0,0.6,1.6
+0,169,diff,"Renaissance painting, oil on panel aesthetic, round 0, node 169, religious narrative scene, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. inspired by visible gallery: ```json, ""tags"": [""Renaissance"", ""religious"", ""angel"". reference note: ```json
+[
+    {
+        ""caption"": ""An angelic visitation with dramatic lighting and dynamic composition."",
+        ""tags"": [""Renaissance"", ""religious"", ""angel"", ""dramatic"", ""dynamic""]
+    },
+    {
+        ""caption"": ""A contemplative scene with a monk and a child in a serene setting."",
+        ""tags",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s1-r1-baseline_random-imitation_only-rr0p00/generated/round_0000/node_0169.png,follower,imitation,119|114|189|91,"```json
+[
+    {
+        ""caption"": ""An angelic visitation with dramatic lighting and dynamic composition."",
+        ""tags"": [""Renaissance"", ""religious"", ""angel"", ""dramatic"", ""dynamic""]
+    },
+    {
+        ""caption"": ""A contemplative scene with a monk and a child in a serene setting."",
+        ""tags","```json|""tags"": [""Renaissance""|""religious""|""angel""|""dramatic""","Renaissance painting, oil on panel aesthetic, round 0, node 169, religious narrative scene, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,2.0,0.6,1.6

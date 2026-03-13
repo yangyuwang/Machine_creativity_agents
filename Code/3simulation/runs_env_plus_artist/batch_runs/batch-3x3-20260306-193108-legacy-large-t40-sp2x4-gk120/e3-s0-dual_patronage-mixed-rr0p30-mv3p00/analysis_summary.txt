@@ -1,0 +1,12 @@
+Batch v2_big quick analysis
+
+2x2 marginal effects (High-Low):
+- modularity: rebel_effect=-0.0490, monopoly_effect=+0.0018
+- cross_cluster_citation_rate: rebel_effect=+0.0356, monopoly_effect=+0.1244
+- in_degree_top10_share: rebel_effect=+0.0427, monopoly_effect=-0.0015
+- topk_turnover_rate: rebel_effect=+0.0062, monopoly_effect=+0.0563
+
+Ablation payoff ranking:
+- best payoff_conform_cum_mean: imitation_only (5.0357)
+- best payoff_diff_cum_mean: differentiation_only (3.7143)
+- best topk_turnover_rate: differentiation_only (0.0750)

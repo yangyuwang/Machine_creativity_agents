@@ -1,0 +1,10 @@
+run_id,status,mode,strategy_policy,rebel_ratio,master_visibility_boost,finished_at,round_final,modularity,in_degree_top10_share,gini_in_degree,cross_cluster_citation_rate,separation_ratio,share_conform_topK,share_diff_topK,payoff_conform_cum_mean,payoff_diff_cum_mean,topk_turnover_rate,generated_count
+e1-s1-r1-baseline_random-imitation_only-rr0p00,failed_exit_1,baseline_random,imitation_only,0.0,,2026-03-06T20:11:32,,,,,,,,,,,,
+e1-s2-r1-baseline_random-differentiation_only-rr1p00,ok,baseline_random,differentiation_only,1.0,,2026-03-06T22:05:22,40.0,0.5964668398882301,0.2138613861386138,0.6108701715241946,0.3529411764705882,1.2513442876679517,0.2125,0.7875,1.0714285714285714,1.3035714285714286,0.0875,4.0
+e1-s3-r1-baseline_random-self_consistency_only-rr0p00,failed_exit_120,baseline_random,self_consistency_only,0.0,,2026-03-06T22:54:32,,,,,,,,,,,,
+e2-s1-r1-norm_only-imitation_only-rr0p00,failed_exit_120,norm_only,imitation_only,0.0,,2026-03-06T22:54:43,,,,,,,,,,,,
+e2-s2-r1-norm_only-differentiation_only-rr1p00,failed_exit_120,norm_only,differentiation_only,1.0,,2026-03-06T22:54:51,,,,,,,,,,,,
+e2-s3-r1-norm_only-self_consistency_only-rr0p00,failed_exit_120,norm_only,self_consistency_only,0.0,,2026-03-06T22:55:00,,,,,,,,,,,,
+e3-s1-r1-dual_patronage-imitation_only-rr0p00,failed_exit_120,dual_patronage,imitation_only,0.0,,2026-03-06T22:55:09,,,,,,,,,,,,
+e3-s2-r1-dual_patronage-differentiation_only-rr1p00,failed_exit_120,dual_patronage,differentiation_only,1.0,,2026-03-06T22:55:17,,,,,,,,,,,,
+e3-s3-r1-dual_patronage-self_consistency_only-rr0p00,failed_exit_120,dual_patronage,self_consistency_only,0.0,,2026-03-06T22:55:26,,,,,,,,,,,,

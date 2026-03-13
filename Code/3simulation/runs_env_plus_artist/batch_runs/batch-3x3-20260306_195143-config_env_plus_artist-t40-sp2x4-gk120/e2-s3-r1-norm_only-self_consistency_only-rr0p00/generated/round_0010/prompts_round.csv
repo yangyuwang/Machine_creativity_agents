@@ -1,0 +1,37 @@
+round,node_id,strategy,prompt,image_path,artist_type,learning_mode,gallery_ids,decoded_caption,decoded_tags,base_prompt,create_provider,create_model,decode_provider,decode_model,feedback_I,feedback_S,feedback_M
+10,64,conform,"Renaissance painting, oil on panel aesthetic, round 10, node 64, merchant patron family group portrait, church guild workshop discipline, canonical iconography, conservative composition, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail. subtle influence from ```json, ""tags"": [""Madonna"".",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195143-config_env_plus_artist-t40-sp2x4-gk120/e2-s3-r1-norm_only-self_consistency_only-rr0p00/generated/round_0010/node_0064.png,master,self_consistency,76|43|176|48,"```json
+[
+    {
+        ""caption"": ""A serene depiction of the Madonna and Child with saints."",
+        ""tags"": [""Madonna"", ""saints"", ""Renaissance"", ""religious"", ""painting""]
+    },
+    {
+        ""caption"": ""The baptism of Christ with angels above."",
+        ""tags"": [""baptism"", ""Christ"", ""angels"", ""re","```json|""tags"": [""Madonna""|""saints""|""Renaissance""|""religious""","Renaissance painting, oil on panel aesthetic, round 10, node 64, merchant patron family group portrait, church guild workshop discipline, canonical iconography, conservative composition, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.0,1.2,0.8
+10,40,conform,"Renaissance painting, oil on panel aesthetic, round 10, node 40, religious narrative scene, church guild workshop discipline, canonical iconography, conservative composition, mainstream renaissance style, geometric balance, stable lighting, high symbolic capital, moderate market visibility, high influence, museum quality, high detail. subtle influence from ```json, ""tags"": [""portrait"".",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195143-config_env_plus_artist-t40-sp2x4-gk120/e2-s3-r1-norm_only-self_consistency_only-rr0p00/generated/round_0010/node_0040.png,master,self_consistency,118|156|81|45,"```json
+[
+    {
+        ""caption"": ""A dignified man in dark attire holding a book and a skull."",
+        ""tags"": [""portrait"", ""Renaissance"", ""dark"", ""introspective"", ""symbolism""]
+    },
+    {
+        ""caption"": ""A detailed engraving of knights on horseback in a forest setting."",
+        ""tags"": [""en","```json|""tags"": [""portrait""|""Renaissance""|""dark""|""introspective""","Renaissance painting, oil on panel aesthetic, round 10, node 40, religious narrative scene, church guild workshop discipline, canonical iconography, conservative composition, mainstream renaissance style, geometric balance, stable lighting, high symbolic capital, moderate market visibility, high influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.0,1.2,0.8
+10,111,conform,"Renaissance painting, oil on panel aesthetic, round 10, node 111, merchant patron family group portrait, church guild workshop discipline, canonical iconography, conservative composition, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. subtle influence from ```json, one holding a palm and the other a staff."".",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195143-config_env_plus_artist-t40-sp2x4-gk120/e2-s3-r1-norm_only-self_consistency_only-rr0p00/generated/round_0010/node_0111.png,master,self_consistency,32|112|94|76,"```json
+[
+    {
+        ""caption"": ""A depiction of two saints with halos, one holding a palm and the other a staff."",
+        ""tags"": [""saints"", ""halos"", ""religious"", ""Renaissance"", ""gold""]
+    },
+    {
+        ""caption"": ""A dynamic scene with multiple figures in a circular composition."",
+        ""t","```json|one holding a palm and the other a staff.""|""tags"": [""saints""|""halos""|""religious""","Renaissance painting, oil on panel aesthetic, round 10, node 111, merchant patron family group portrait, church guild workshop discipline, canonical iconography, conservative composition, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.0,1.2,0.8
+10,179,diff,"Renaissance painting, oil on panel aesthetic, round 10, node 179, portrait in workshop interior, church guild workshop discipline, canonical iconography, conservative composition, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. subtle influence from ```json, ""tags"": [""manuscript"".",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195143-config_env_plus_artist-t40-sp2x4-gk120/e2-s3-r1-norm_only-self_consistency_only-rr0p00/generated/round_0010/node_0179.png,master,self_consistency,135|61|40|192,"```json
+[
+    {
+        ""caption"": ""Medieval manuscript page with a detailed illustration of a public execution scene."",
+        ""tags"": [""manuscript"", ""medieval"", ""illustration"", ""execution"", ""text""]
+    },
+    {
+        ""caption"": ""Detailed sketch of a classical figure with elaborate headgear."",
+ ","```json|""tags"": [""manuscript""|""medieval""|""illustration""|""execution""","Renaissance painting, oil on panel aesthetic, round 10, node 179, portrait in workshop interior, church guild workshop discipline, canonical iconography, conservative composition, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.0,1.2,0.8

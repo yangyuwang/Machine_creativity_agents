@@ -1,0 +1,31 @@
+round,node_id,strategy,prompt,image_path,artist_type,learning_mode,gallery_ids,decoded_caption,decoded_tags,base_prompt,create_provider,create_model,decode_provider,decode_model,feedback_I,feedback_S,feedback_M
+4,111,conform,"Renaissance painting, oil on panel aesthetic, round 4, node 111, merchant patron family group portrait, church guild + court civic patronage, mixed canon and novelty, inter-city motif exchange, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. inspired by visible gallery: ```json, ""tags"": [""Renaissance"", ""Holy Family"". reference note: ```json
+[
+    {
+        ""caption"": ""A serene depiction of a holy family scene with rich drapery and soft lighting."",
+        ""tags"": [""Renaissance"", ""Holy Family"", ""Drapery"", ""Lighting"", ""Serene""]
+    },
+    {
+        ""caption"": ""Three men in conversation, showcasing detailed attire and architectura",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195611-config_env_plus_artist-t20-sp2x2-gk120/e3-s1-r1-dual_patronage-imitation_only-rr0p00/generated/round_0004/node_0111.png,follower,imitation,92|18|4|113,"```json
+[
+    {
+        ""caption"": ""A serene depiction of a holy family scene with rich drapery and soft lighting."",
+        ""tags"": [""Renaissance"", ""Holy Family"", ""Drapery"", ""Lighting"", ""Serene""]
+    },
+    {
+        ""caption"": ""Three men in conversation, showcasing detailed attire and architectura","```json|""tags"": [""Renaissance""|""Holy Family""|""Drapery""|""Lighting""","Renaissance painting, oil on panel aesthetic, round 4, node 111, merchant patron family group portrait, church guild + court civic patronage, mixed canon and novelty, inter-city motif exchange, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,2.0,0.6,1.6
+4,53,conform,"Renaissance painting, oil on panel aesthetic, round 4, node 53, religious narrative scene, church guild + court civic patronage, mixed canon and novelty, inter-city motif exchange, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail. inspired by visible gallery: ```json, ""tags"": [""Renaissance"", ""engraving"", ""avarice"". reference note: ```json
+[
+    {
+        ""caption"": ""A chaotic scene depicting the vice of avarice with various figures engaged in greedy activities."",
+        ""tags"": [""Renaissance"", ""engraving"", ""allegory"", ""avarice"", ""chaos""]
+    },
+    {
+        ""caption"": ""A portrait of a man in Renaissance attire, showcasing d",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195611-config_env_plus_artist-t20-sp2x2-gk120/e3-s1-r1-dual_patronage-imitation_only-rr0p00/generated/round_0004/node_0053.png,follower,imitation,196|192|184|173,"```json
+[
+    {
+        ""caption"": ""A chaotic scene depicting the vice of avarice with various figures engaged in greedy activities."",
+        ""tags"": [""Renaissance"", ""engraving"", ""allegory"", ""avarice"", ""chaos""]
+    },
+    {
+        ""caption"": ""A portrait of a man in Renaissance attire, showcasing d","```json|""tags"": [""Renaissance""|""engraving""|""allegory""|""avarice""","Renaissance painting, oil on panel aesthetic, round 4, node 53, religious narrative scene, church guild + court civic patronage, mixed canon and novelty, inter-city motif exchange, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,2.0,0.6,1.6

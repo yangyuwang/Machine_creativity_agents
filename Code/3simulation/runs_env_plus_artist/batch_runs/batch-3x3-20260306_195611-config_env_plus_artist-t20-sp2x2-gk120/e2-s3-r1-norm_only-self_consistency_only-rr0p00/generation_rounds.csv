@@ -1,0 +1,12 @@
+round,generated_count,prompt_unique_ratio,rgb_std_mean,center_deviation_proxy,share_imitation,share_differentiation,share_self_consistency,decoded_top_tags
+0,2,1.0,45.163026292669244,0.136559775474641,0.0,0.0,1.0,"```json|""tags"": [""renaissance""|""religious""|""emotion""|""symbolism"""
+2,2,1.0,36.27134550634274,0.16745719167172723,0.0,0.0,1.0,renaissance|art|portrait|historical|technique
+4,2,1.0,30.50054584480157,0.15089027590146087,0.0,0.0,1.0,"```json|""tags"": [""medieval""|""castle""|""siege""|""battle"""
+6,2,1.0,31.76637675344604,0.18780856069920582,0.0,0.0,1.0,"```json|""tags"": [""renaissance""|""religious""|""symbolism""|""trinity"""
+8,2,1.0,49.830466247006896,0.1303787898538803,0.0,0.0,1.0,"```json|""tags"": [""portrait""|""noblewoman""|""renaissance""|""fashion"""
+10,2,1.0,40.58621662479716,0.1826518781893599,0.0,0.0,1.0,renaissance|religious|portrait|calligraphy|triptych
+12,2,1.0,33.86093276091909,0.13446134843362928,0.0,0.0,1.0,"```json|""tags"": [""woodcut""|""biblical""|""detailed""|""monochrome"""
+14,2,1.0,45.21864967983946,0.17797365516107966,0.0,0.0,1.0,"```json|""workshop""|surrounded by craftsmen in a workshop.""|""tags"": [""saint""|""craftsmen"""
+16,2,1.0,36.519370024310334,0.14025225966441718,0.0,0.0,1.0,renaissance|religious|engraving|portrait|noble
+18,2,1.0,33.42988464984304,0.20910038921653712,0.0,0.0,1.0,"```json|""tags"": [""triptych""|""lamentation""|""renaissance""|""religious"""
+20,2,1.0,31.7760529074218,0.1762693383590177,0.0,0.0,1.0,"```json|""tags"": [""renaissance""|""madonna""|""child""|""saints"""

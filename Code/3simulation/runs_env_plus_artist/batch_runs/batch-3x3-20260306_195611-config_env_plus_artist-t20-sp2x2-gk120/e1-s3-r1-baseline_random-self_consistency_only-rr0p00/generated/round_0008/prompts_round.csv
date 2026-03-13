@@ -1,0 +1,17 @@
+round,node_id,strategy,prompt,image_path,artist_type,learning_mode,gallery_ids,decoded_caption,decoded_tags,base_prompt,create_provider,create_model,decode_provider,decode_model,feedback_I,feedback_S,feedback_M
+8,157,diff,"Renaissance painting, oil on panel aesthetic, round 8, node 157, civic procession in an italian city, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. subtle influence from ```json, ""tags"": [""Renaissance"".",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195611-config_env_plus_artist-t20-sp2x2-gk120/e1-s3-r1-baseline_random-self_consistency_only-rr0p00/generated/round_0008/node_0157.png,master,self_consistency,102|23|64|44,"```json
+[
+    {
+        ""caption"": ""A dramatic depiction of a religious scene with dynamic figures and rich colors."",
+        ""tags"": [""Renaissance"", ""religious"", ""dynamic"", ""dramatic"", ""colorful""]
+    },
+    {
+        ""caption"": ""A serene image of a figure with a book, accompanied by an ox, set aga","```json|""tags"": [""Renaissance""|""religious""|""dynamic""|""dramatic""","Renaissance painting, oil on panel aesthetic, round 8, node 157, civic procession in an italian city, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.0,1.2,0.8
+8,183,diff,"Renaissance painting, oil on panel aesthetic, round 8, node 183, mythological allegory with architecture, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. subtle influence from ```json, ""tags"": [""fresco"".",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195611-config_env_plus_artist-t20-sp2x2-gk120/e1-s3-r1-baseline_random-self_consistency_only-rr0p00/generated/round_0008/node_0183.png,master,self_consistency,97|56|94|165,"```json
+[
+    {
+        ""caption"": ""A dramatic ceiling fresco depicting a divine encounter with figures in dynamic poses."",
+        ""tags"": [""fresco"", ""divine"", ""dynamic"", ""Renaissance"", ""ceiling""]
+    },
+    {
+        ""caption"": ""A lively scene of a mythological feast with numerous figures and crea","```json|""tags"": [""fresco""|""divine""|""dynamic""|""Renaissance""","Renaissance painting, oil on panel aesthetic, round 8, node 183, mythological allegory with architecture, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.0,1.2,0.8

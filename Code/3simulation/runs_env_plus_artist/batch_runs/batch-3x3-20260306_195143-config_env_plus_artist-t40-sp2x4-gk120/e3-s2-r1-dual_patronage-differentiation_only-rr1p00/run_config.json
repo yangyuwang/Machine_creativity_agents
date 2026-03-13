@@ -1,0 +1,32 @@
+{
+  "images_dir": "images",
+  "output_dir": "runs_env_plus_artist/outputs",
+  "mode": "dual_patronage",
+  "T": 40,
+  "obs_every": 5,
+  "feedback_closed_loop": true,
+  "gen_engine": "api",
+  "gen_round_every": 2,
+  "gen_per_round": 4,
+  "gen_top_k": 120,
+  "spawn_round_every": 2,
+  "spawn_per_round": 4,
+  "max_dynamic_nodes": 400,
+  "decode_provider": "openai",
+  "decode_model": "openai/gpt-4o",
+  "decode_endpoint": "https://openrouter.ai/api/v1/chat/completions",
+  "api_provider": "openai",
+  "api_model": "openai/gpt-5-image-mini",
+  "api_fallback_models": [
+    "openai/gpt-5-image"
+  ],
+  "api_endpoint": "https://openrouter.ai/api/v1/chat/completions",
+  "vlm_enabled": false,
+  "feedback_i_scale": 2.0,
+  "feedback_s_scale": 2.0,
+  "feedback_m_scale": 2.0,
+  "strategy_policy": "differentiation_only",
+  "rebel_ratio": 1.0,
+  "strict_llava_create": false,
+  "strict_llava_decode": false
+}

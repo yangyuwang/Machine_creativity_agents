@@ -1,0 +1,10 @@
+run_id,status,mode,strategy_policy,rebel_ratio,master_visibility_boost,finished_at,round_final,modularity,in_degree_top10_share,gini_in_degree,cross_cluster_citation_rate,separation_ratio,share_conform_topK,share_diff_topK,payoff_conform_cum_mean,payoff_diff_cum_mean,topk_turnover_rate,generated_count
+e1-s1-r1-baseline_random-imitation_only-rr0p00,failed_exit_1,baseline_random,imitation_only,0.0,,2026-03-06T19:52:02,,,,,,,,,,,,
+e1-s2-r1-baseline_random-differentiation_only-rr1p00,failed_exit_1,baseline_random,differentiation_only,1.0,,2026-03-06T19:52:25,,,,,,,,,,,,
+e1-s3-r1-baseline_random-self_consistency_only-rr0p00,failed_exit_1,baseline_random,self_consistency_only,0.0,,2026-03-06T19:52:44,,,,,,,,,,,,
+e2-s1-r1-norm_only-imitation_only-rr0p00,failed_exit_1,norm_only,imitation_only,0.0,,2026-03-06T20:05:49,,,,,,,,,,,,
+e2-s2-r1-norm_only-differentiation_only-rr1p00,ok,norm_only,differentiation_only,1.0,,2026-03-06T21:54:11,40.0,0.6090340498027959,0.2247706422018348,0.9374596201059566,0.40625,1.4535912850820616,0.25,0.75,2.875,0.7142857142857143,0.0,4.0
+e2-s3-r1-norm_only-self_consistency_only-rr0p00,failed_exit_120,norm_only,self_consistency_only,0.0,,2026-03-06T22:58:33,,,,,,,,,,,,
+e3-s1-r1-dual_patronage-imitation_only-rr0p00,failed_exit_120,dual_patronage,imitation_only,0.0,,2026-03-06T22:58:41,,,,,,,,,,,,
+e3-s2-r1-dual_patronage-differentiation_only-rr1p00,failed_exit_120,dual_patronage,differentiation_only,1.0,,2026-03-06T22:58:50,,,,,,,,,,,,
+e3-s3-r1-dual_patronage-self_consistency_only-rr0p00,failed_exit_120,dual_patronage,self_consistency_only,0.0,,2026-03-06T22:58:58,,,,,,,,,,,,

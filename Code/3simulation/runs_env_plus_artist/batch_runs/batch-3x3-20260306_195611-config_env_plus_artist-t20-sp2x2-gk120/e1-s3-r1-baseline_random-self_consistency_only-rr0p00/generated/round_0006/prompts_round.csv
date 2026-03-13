@@ -1,0 +1,18 @@
+round,node_id,strategy,prompt,image_path,artist_type,learning_mode,gallery_ids,decoded_caption,decoded_tags,base_prompt,create_provider,create_model,decode_provider,decode_model,feedback_I,feedback_S,feedback_M
+6,196,diff,"Renaissance painting, oil on panel aesthetic, round 6, node 196, merchant patron family group portrait, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. subtle influence from ```json, ""tags"": [""Persian"".",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195611-config_env_plus_artist-t20-sp2x2-gk120/e1-s3-r1-baseline_random-self_consistency_only-rr0p00/generated/round_0006/node_0196.png,master,self_consistency,199|43|163|118,"```json
+[
+    {
+        ""caption"": ""A royal court scene with a king and his subjects."",
+        ""tags"": [""Persian"", ""court"", ""king"", ""historical"", ""figures""]
+    },
+    {
+        ""caption"": ""The baptism of Christ with angels above."",
+        ""tags"": [""Renaissance"", ""religious"", ""baptism"", ""angels"", ","```json|""tags"": [""Persian""|""court""|""king""|""historical""","Renaissance painting, oil on panel aesthetic, round 6, node 196, merchant patron family group portrait, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.0,1.2,0.8
+6,205,diff,"Renaissance painting, oil on panel aesthetic, round 6, node 205, religious narrative scene, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. subtle influence from ```json, capturing serene beauty."".",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195611-config_env_plus_artist-t20-sp2x2-gk120/e1-s3-r1-baseline_random-self_consistency_only-rr0p00/generated/round_0006/node_0205.png,master,self_consistency,131|91|160|30,"```json
+[
+    {
+        ""caption"": ""A delicate sketch of a woman's face, capturing serene beauty."",
+        ""tags"": [""Renaissance"", ""sketch"", ""portrait"", ""delicate"", ""serene""]
+    },
+    {
+        ""caption"": ""A portrait of a man in fur-lined clothing, holding an object, with a detailed background."",","```json|capturing serene beauty.""|""tags"": [""Renaissance""|""sketch""|""portrait""","Renaissance painting, oil on panel aesthetic, round 6, node 205, religious narrative scene, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.0,1.2,0.8

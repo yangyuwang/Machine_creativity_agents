@@ -1,0 +1,51 @@
+round,node_id,strategy,prompt,image_path,artist_type,learning_mode,gallery_ids,decoded_caption,decoded_tags,base_prompt,create_provider,create_model,decode_provider,decode_model,feedback_I,feedback_S,feedback_M
+2,123,diff,"Renaissance painting, oil on panel aesthetic, round 2, node 123, merchant patron family group portrait, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. inspired by visible gallery: ```json, set against a blue background."", ""tags"": [""portrait"", ""child"". reference note: ```json
+[
+    {
+        ""caption"": ""A portrait of a young child holding a small animal, set against a blue background."",
+        ""tags"": [""portrait"", ""child"", ""animal"", ""Renaissance"", ""blue""]
+    },
+    {
+        ""caption"": ""A dramatic scene depicting multiple figures in a religious setting, with dy",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s1-r1-baseline_random-imitation_only-rr0p00/generated/round_0002/node_0123.png,follower,imitation,183|102|140|37,"```json
+[
+    {
+        ""caption"": ""A portrait of a young child holding a small animal, set against a blue background."",
+        ""tags"": [""portrait"", ""child"", ""animal"", ""Renaissance"", ""blue""]
+    },
+    {
+        ""caption"": ""A dramatic scene depicting multiple figures in a religious setting, with dy","```json|set against a blue background.""|""tags"": [""portrait""|""child""|""animal""","Renaissance painting, oil on panel aesthetic, round 2, node 123, merchant patron family group portrait, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,2.0,0.6,1.6
+2,186,diff,"Renaissance painting, oil on panel aesthetic, round 2, node 186, religious narrative scene, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. inspired by visible gallery: ```json, ""tags"": [""Renaissance"", ""religious"". reference note: ```json
+[
+    {
+        ""caption"": ""A serene scene depicting an angel playing music to a saint and a child."",
+        ""tags"": [""Renaissance"", ""religious"", ""angel"", ""saint"", ""music""]
+    },
+    {
+        ""caption"": ""A vibrant fresco on a dome featuring a celestial gathering."",
+        ""tags"": [""fresc",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s1-r1-baseline_random-imitation_only-rr0p00/generated/round_0002/node_0186.png,follower,imitation,203|107|128|13,"```json
+[
+    {
+        ""caption"": ""A serene scene depicting an angel playing music to a saint and a child."",
+        ""tags"": [""Renaissance"", ""religious"", ""angel"", ""saint"", ""music""]
+    },
+    {
+        ""caption"": ""A vibrant fresco on a dome featuring a celestial gathering."",
+        ""tags"": [""fresc","```json|""tags"": [""Renaissance""|""religious""|""angel""|""saint""","Renaissance painting, oil on panel aesthetic, round 2, node 186, religious narrative scene, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,2.0,0.6,1.6
+2,192,diff,"Renaissance painting, oil on panel aesthetic, round 2, node 192, merchant patron family group portrait, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. inspired by visible gallery: ```json, ""tags"": [""Renaissance"", ""religious"". reference note: ```json
+[
+    {
+        ""caption"": ""An angel kneels before a seated woman in a richly decorated room."",
+        ""tags"": [""Renaissance"", ""religious"", ""angel"", ""Madonna"", ""interior""]
+    },
+    {
+        ""caption"": ""A medieval siege scene with soldiers and castles."",
+        ""tags"": [""medieval"", ""sieg",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s1-r1-baseline_random-imitation_only-rr0p00/generated/round_0002/node_0192.png,follower,imitation,59|136|88|4,"```json
+[
+    {
+        ""caption"": ""An angel kneels before a seated woman in a richly decorated room."",
+        ""tags"": [""Renaissance"", ""religious"", ""angel"", ""Madonna"", ""interior""]
+    },
+    {
+        ""caption"": ""A medieval siege scene with soldiers and castles."",
+        ""tags"": [""medieval"", ""sieg","```json|""tags"": [""Renaissance""|""religious""|""angel""|""Madonna""","Renaissance painting, oil on panel aesthetic, round 2, node 192, merchant patron family group portrait, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,2.0,0.6,1.6
+2,159,diff,"Renaissance painting, oil on panel aesthetic, round 2, node 159, mythological allegory with architecture, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. inspired by visible gallery: Renaissance, Biblical, Historical, Colorful. reference note: A collection of Renaissance artworks depicting biblical and historical scenes with rich colors and detailed figures.",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s1-r1-baseline_random-imitation_only-rr0p00/generated/round_0002/node_0159.png,follower,imitation,94|81|100|66,A collection of Renaissance artworks depicting biblical and historical scenes with rich colors and detailed figures.,Renaissance|Biblical|Historical|Detailed|Colorful,"Renaissance painting, oil on panel aesthetic, round 2, node 159, mythological allegory with architecture, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,2.0,0.6,1.6

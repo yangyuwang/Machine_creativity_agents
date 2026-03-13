@@ -1,0 +1,4 @@
+run_id,status,round_final,modularity,in_degree_top10_share,gini_in_degree,cross_cluster_citation_rate,separation_ratio,share_conform_topK,share_diff_topK,payoff_conform_cum_mean,payoff_diff_cum_mean,topk_turnover_rate,generated_count,mode,strategy_policy,rebel_ratio,master_visibility_boost,finished_at
+e1-r1-baseline_random,ok,40,0.4990798212776234,0.1910569105691057,0.5369105691056912,0.4,1.069095025382729,0.2125,0.7875,1.8,1.45,0.125,,baseline_random,none,0.0,,2026-03-06T19:44:44
+e2-r1-norm_only,ok,40,0.3410011574074074,0.1901840490797546,0.9365337423312884,0.4,1.1373625762363375,0.3625,0.6375,7.025,0.0,0.0,,norm_only,none,0.0,,2026-03-06T19:45:01
+e3-r1-dual_patronage,ok,40,0.4406750074403059,0.2402597402597402,0.8606709956709957,0.3900709219858156,1.398215755056389,0.35,0.65,6.925,7.9,0.0,,dual_patronage,none,0.0,,2026-03-06T19:45:18

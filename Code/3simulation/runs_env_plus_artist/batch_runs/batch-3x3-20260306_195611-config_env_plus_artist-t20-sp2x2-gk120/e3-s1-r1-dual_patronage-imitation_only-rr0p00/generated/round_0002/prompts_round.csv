@@ -1,0 +1,35 @@
+round,node_id,strategy,prompt,image_path,artist_type,learning_mode,gallery_ids,decoded_caption,decoded_tags,base_prompt,create_provider,create_model,decode_provider,decode_model,feedback_I,feedback_S,feedback_M
+2,121,diff,"Renaissance painting, oil on panel aesthetic, round 2, node 121, religious narrative scene, church guild + court civic patronage, mixed canon and novelty, inter-city motif exchange, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. inspired by visible gallery: ```json, ""tags"": [""portrait"", ""Renaissance"", ""dark cap"". reference note: ```json
+[
+    {
+        ""caption"": ""Portrait of a man with a subtle smile and a dark cap."",
+        ""tags"": [""portrait"", ""Renaissance"", ""smile"", ""dark cap"", ""realism""]
+    },
+    {
+        ""caption"": ""Dramatic scene of two muscular figures in a dynamic pose."",
+        ""tags"": [""dynamic"", ""muscular"",",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195611-config_env_plus_artist-t20-sp2x2-gk120/e3-s1-r1-dual_patronage-imitation_only-rr0p00/generated/round_0002/node_0121.png,follower,imitation,28|186|99|49,"```json
+[
+    {
+        ""caption"": ""Portrait of a man with a subtle smile and a dark cap."",
+        ""tags"": [""portrait"", ""Renaissance"", ""smile"", ""dark cap"", ""realism""]
+    },
+    {
+        ""caption"": ""Dramatic scene of two muscular figures in a dynamic pose."",
+        ""tags"": [""dynamic"", ""muscular"",","```json|""tags"": [""portrait""|""Renaissance""|""smile""|""dark cap""","Renaissance painting, oil on panel aesthetic, round 2, node 121, religious narrative scene, church guild + court civic patronage, mixed canon and novelty, inter-city motif exchange, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,2.0,0.6,1.6
+2,180,conform,"Renaissance painting, oil on panel aesthetic, round 2, node 180, civic procession in an italian city, church guild + court civic patronage, mixed canon and novelty, inter-city motif exchange, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. inspired by visible gallery: ```json, ""tags"": [""portrait"", ""Renaissance"". reference note: ```json
+[
+    {
+        ""caption"": ""Portrait of a man in a dark hood with a contemplative expression."",
+        ""tags"": [""portrait"", ""Renaissance"", ""realism"", ""profile"", ""dark""]
+    },
+    {
+        ""caption"": ""A seated figure in prayer, depicted in a monochrome style."",
+        ""tags"": [""prayer"", """,/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195611-config_env_plus_artist-t20-sp2x2-gk120/e3-s1-r1-dual_patronage-imitation_only-rr0p00/generated/round_0002/node_0180.png,follower,imitation,173|105|119|78,"```json
+[
+    {
+        ""caption"": ""Portrait of a man in a dark hood with a contemplative expression."",
+        ""tags"": [""portrait"", ""Renaissance"", ""realism"", ""profile"", ""dark""]
+    },
+    {
+        ""caption"": ""A seated figure in prayer, depicted in a monochrome style."",
+        ""tags"": [""prayer"", ""","```json|""tags"": [""portrait""|""Renaissance""|""realism""|""profile""","Renaissance painting, oil on panel aesthetic, round 2, node 180, civic procession in an italian city, church guild + court civic patronage, mixed canon and novelty, inter-city motif exchange, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,2.0,0.6,1.6

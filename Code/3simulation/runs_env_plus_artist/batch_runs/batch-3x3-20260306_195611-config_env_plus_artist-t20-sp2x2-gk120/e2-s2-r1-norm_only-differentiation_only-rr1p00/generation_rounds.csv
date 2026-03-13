@@ -1,0 +1,12 @@
+round,generated_count,prompt_unique_ratio,rgb_std_mean,center_deviation_proxy,share_imitation,share_differentiation,share_self_consistency,decoded_top_tags
+0,2,1.0,46.98705166650829,0.136559775474641,0.0,1.0,0.0,"```json|""tags"": [""monk""|""contemplation""|""fresco""|""renaissance"""
+2,2,1.0,36.82406235482344,0.16618093465901312,0.0,1.0,0.0,"```json|set against a gold background.""|""tags"": [""religious""|""bishop""|""gold"""
+4,2,1.0,39.08838669701826,0.18606106710727766,0.0,1.0,0.0,"```json|""tags"": [""madonna""|""child""|""saint""|""renaissance"""
+6,2,1.0,40.352293803568344,0.20455563987299263,0.0,1.0,0.0,"```json|surrounded by shadowy figures.""|""tags"": [""renaissance""|""religious""|""christ"""
+8,2,1.0,57.66764272158895,0.1586414611958174,0.0,1.0,0.0,renaissance|religious|historical|detailed|vibrant
+10,2,1.0,77.74056600878527,0.1394904761679534,0.0,1.0,0.0,"```json|""tags"": [""sketch""|""religious""|""serene""|""renaissance"""
+12,2,1.0,50.40742362009283,0.165151959065987,0.0,1.0,0.0,"```json|set against a golden background.""|""tags"": [""religious""|""bishop""|""halo"""
+14,2,1.0,30.914556148377372,0.23820686165631982,0.0,1.0,0.0,"```json|surrounded by angels.""|""tags"": [""renaissance""|""religious""|""madonna"""
+16,2,1.0,55.6294827711629,0.14278276404874335,0.0,1.0,0.0,"```json|""religious""|""tags"": [""renaissance""|""madonna""|""saints"""
+18,2,1.0,58.84679207801558,0.15328795531038647,0.0,1.0,0.0,renaissance|religious|christ|virgin mary|biblical
+20,2,1.0,36.43291640621585,0.1781435428974918,0.0,1.0,0.0,renaissance|engraving|portrait|religious|art

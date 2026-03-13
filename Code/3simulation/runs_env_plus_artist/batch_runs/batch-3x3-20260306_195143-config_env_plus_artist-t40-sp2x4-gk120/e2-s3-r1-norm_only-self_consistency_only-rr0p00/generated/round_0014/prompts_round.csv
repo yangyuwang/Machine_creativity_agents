@@ -1,0 +1,35 @@
+round,node_id,strategy,prompt,image_path,artist_type,learning_mode,gallery_ids,decoded_caption,decoded_tags,base_prompt,create_provider,create_model,decode_provider,decode_model,feedback_I,feedback_S,feedback_M
+14,172,diff,"Renaissance painting, oil on panel aesthetic, round 14, node 172, civic procession in an italian city, church guild workshop discipline, canonical iconography, conservative composition, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. subtle influence from ```json, ""caption"": ""A nativity scene with Mary.",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195143-config_env_plus_artist-t40-sp2x4-gk120/e2-s3-r1-norm_only-self_consistency_only-rr0p00/generated/round_0014/node_0172.png,master,self_consistency,143|85|95|54,"```json
+[
+    {
+        ""caption"": ""A nativity scene with Mary, Joseph, angels, and the infant Jesus in a manger."",
+        ""tags"": [""nativity"", ""religious"", ""angels"", ""infant"", ""manger""]
+    },
+    {
+        ""caption"": ""A detailed sketch of a reclining male nude figure."",
+        ""tags"": [""sketch"",","```json|""caption"": ""A nativity scene with Mary|Joseph|angels|and the infant Jesus in a manger.""","Renaissance painting, oil on panel aesthetic, round 14, node 172, civic procession in an italian city, church guild workshop discipline, canonical iconography, conservative composition, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.0,1.2,0.8
+14,137,conform,"Renaissance painting, oil on panel aesthetic, round 14, node 137, portrait in workshop interior, church guild workshop discipline, canonical iconography, conservative composition, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. subtle influence from ```json, accompanied by a child.",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195143-config_env_plus_artist-t40-sp2x4-gk120/e2-s3-r1-norm_only-self_consistency_only-rr0p00/generated/round_0014/node_0137.png,master,self_consistency,62|174|76|227,"```json
+[
+    {
+        ""caption"": ""A saintly figure with a crown and palm leaf, accompanied by a child, symbolizing martyrdom."",
+        ""tags"": [""saint"", ""martyrdom"", ""religious"", ""Renaissance"", ""symbolism""]
+    },
+    {
+        ""caption"": ""A detailed engraving of a bearded man, showcasing Renaiss","```json|accompanied by a child|symbolizing martyrdom.""|""tags"": [""saint""|""martyrdom""","Renaissance painting, oil on panel aesthetic, round 14, node 137, portrait in workshop interior, church guild workshop discipline, canonical iconography, conservative composition, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.0,1.2,0.8
+14,156,conform,"Renaissance painting, oil on panel aesthetic, round 14, node 156, merchant patron family group portrait, church guild workshop discipline, canonical iconography, conservative composition, mainstream renaissance style, geometric balance, stable lighting, high symbolic capital, moderate market visibility, high influence, museum quality, high detail. subtle influence from ```json, ""tags"": [""portrait"".",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195143-config_env_plus_artist-t40-sp2x4-gk120/e2-s3-r1-norm_only-self_consistency_only-rr0p00/generated/round_0014/node_0156.png,master,self_consistency,68|179|90|208,"```json
+[
+    {
+        ""caption"": ""Portrait of a nobleman in ornate armor with a young attendant."",
+        ""tags"": [""portrait"", ""armor"", ""noble"", ""Renaissance"", ""attendant""]
+    },
+    {
+        ""caption"": ""Close-up of a contemplative man with detailed clothing."",
+        ""tags"": [""close-up"", ""con","```json|""tags"": [""portrait""|""armor""|""noble""|""Renaissance""","Renaissance painting, oil on panel aesthetic, round 14, node 156, merchant patron family group portrait, church guild workshop discipline, canonical iconography, conservative composition, mainstream renaissance style, geometric balance, stable lighting, high symbolic capital, moderate market visibility, high influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.0,1.2,0.8
+14,121,diff,"Renaissance painting, oil on panel aesthetic, round 14, node 121, mythological allegory with architecture, church guild workshop discipline, canonical iconography, conservative composition, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. subtle influence from ```json, ""tags"": [""Renaissance"".",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195143-config_env_plus_artist-t40-sp2x4-gk120/e2-s3-r1-norm_only-self_consistency_only-rr0p00/generated/round_0014/node_0121.png,master,self_consistency,40|177|31|216,"```json
+[
+    {
+        ""caption"": ""A Renaissance depiction of a biblical marriage ceremony with figures in vibrant robes."",
+        ""tags"": [""Renaissance"", ""biblical"", ""ceremony"", ""vibrant"", ""figures""]
+    },
+    {
+        ""caption"": ""A detailed scene of creation with Adam, Eve, and various animals","```json|""tags"": [""Renaissance""|""biblical""|""ceremony""|""vibrant""","Renaissance painting, oil on panel aesthetic, round 14, node 121, mythological allegory with architecture, church guild workshop discipline, canonical iconography, conservative composition, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.0,1.2,0.8

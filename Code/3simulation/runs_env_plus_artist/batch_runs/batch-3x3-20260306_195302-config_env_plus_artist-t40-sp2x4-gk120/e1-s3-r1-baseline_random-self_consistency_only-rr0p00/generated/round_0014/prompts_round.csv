@@ -1,0 +1,35 @@
+round,node_id,strategy,prompt,image_path,artist_type,learning_mode,gallery_ids,decoded_caption,decoded_tags,base_prompt,create_provider,create_model,decode_provider,decode_model,feedback_I,feedback_S,feedback_M
+14,175,conform,"Renaissance painting, oil on panel aesthetic, round 14, node 175, civic procession in an italian city, random patronage baseline, heterogeneous workshops, uneven style pressure, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. subtle influence from ```json, ""tags"": [""unicorn"".",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s3-r1-baseline_random-self_consistency_only-rr0p00/generated/round_0014/node_0175.png,master,self_consistency,187|88|213|167,"```json
+[
+    {
+        ""caption"": ""A detailed engraving of a unicorn in a dynamic pose."",
+        ""tags"": [""unicorn"", ""engraving"", ""mythical"", ""Renaissance"", ""art""]
+    },
+    {
+        ""caption"": ""A sketch of two intertwined male figures showcasing anatomical study."",
+        ""tags"": [""sketch"", ""a","```json|""tags"": [""unicorn""|""engraving""|""mythical""|""Renaissance""","Renaissance painting, oil on panel aesthetic, round 14, node 175, civic procession in an italian city, random patronage baseline, heterogeneous workshops, uneven style pressure, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.0,1.2,0.8
+14,179,diff,"Renaissance painting, oil on panel aesthetic, round 14, node 179, religious narrative scene, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail. subtle influence from ```json, ""tags"": [""battle"".",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s3-r1-baseline_random-self_consistency_only-rr0p00/generated/round_0014/node_0179.png,master,self_consistency,191|128|126|122,"```json
+[
+    {
+        ""caption"": ""A detailed depiction of a historical battle scene with numerous soldiers and flags."",
+        ""tags"": [""battle"", ""historical"", ""detailed"", ""Renaissance"", ""military""]
+    },
+    {
+        ""caption"": ""A delicate drawing of a woman holding a child, surrounded by ange","```json|""tags"": [""battle""|""historical""|""detailed""|""Renaissance""","Renaissance painting, oil on panel aesthetic, round 14, node 179, religious narrative scene, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.0,1.2,0.8
+14,124,diff,"Renaissance painting, oil on panel aesthetic, round 14, node 124, religious narrative scene, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail. subtle influence from ```json, ""tags"": [""Renaissance"".",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s3-r1-baseline_random-self_consistency_only-rr0p00/generated/round_0014/node_0124.png,master,self_consistency,130|192|186|67,"```json
+[
+    {
+        ""caption"": ""A detailed drawing depicting a religious scene with multiple figures surrounding a central figure."",
+        ""tags"": [""Renaissance"", ""religious"", ""drawing"", ""detailed"", ""figures""]
+    },
+    {
+        ""caption"": ""A portrait of a man in Renaissance attire, showcasi","```json|""tags"": [""Renaissance""|""religious""|""drawing""|""detailed""","Renaissance painting, oil on panel aesthetic, round 14, node 124, religious narrative scene, random patronage baseline, heterogeneous workshops, uneven style pressure, differentiated style, bolder contrast, uncommon motif variation, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.0,1.2,0.8
+14,110,conform,"Renaissance painting, oil on panel aesthetic, round 14, node 110, mythological allegory with architecture, random patronage baseline, heterogeneous workshops, uneven style pressure, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail. subtle influence from ```json, ""tags"": [""Renaissance"".",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195302-config_env_plus_artist-t40-sp2x4-gk120/e1-s3-r1-baseline_random-self_consistency_only-rr0p00/generated/round_0014/node_0110.png,master,self_consistency,182|166|164|87,"```json
+[
+    {
+        ""caption"": ""A detailed depiction of a reclining figure in a tomb."",
+        ""tags"": [""Renaissance"", ""realism"", ""religious"", ""anatomy"", ""somber""]
+    },
+    {
+        ""caption"": ""Intricate architectural sketch of a Gothic cathedral."",
+        ""tags"": [""Renaissance"", ""architect","```json|""tags"": [""Renaissance""|""realism""|""religious""|""anatomy""","Renaissance painting, oil on panel aesthetic, round 14, node 110, mythological allegory with architecture, random patronage baseline, heterogeneous workshops, uneven style pressure, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, high influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,1.0,1.2,0.8

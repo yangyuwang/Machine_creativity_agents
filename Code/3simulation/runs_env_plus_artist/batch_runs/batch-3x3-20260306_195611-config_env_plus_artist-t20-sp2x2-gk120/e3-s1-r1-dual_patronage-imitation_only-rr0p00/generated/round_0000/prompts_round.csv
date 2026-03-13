@@ -1,0 +1,33 @@
+round,node_id,strategy,prompt,image_path,artist_type,learning_mode,gallery_ids,decoded_caption,decoded_tags,base_prompt,create_provider,create_model,decode_provider,decode_model,feedback_I,feedback_S,feedback_M
+0,156,conform,"Renaissance painting, oil on panel aesthetic, round 0, node 156, religious narrative scene, church guild + court civic patronage, mixed canon and novelty, inter-city motif exchange, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. inspired by visible gallery: ```json, seated beside a spiked wheel, symbolizing martyrdom."". reference note: ```json
+[
+    {
+        ""caption"": ""A contemplative woman with a halo, seated beside a spiked wheel, symbolizing martyrdom."",
+        ""tags"": [""Renaissance"", ""martyrdom"", ""halo"", ""wheel"", ""portrait""]
+    },
+    {
+        ""caption"": ""Intricate calligraphy with elaborate flourishes and decorative elem",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195611-config_env_plus_artist-t20-sp2x2-gk120/e3-s1-r1-dual_patronage-imitation_only-rr0p00/generated/round_0000/node_0156.png,follower,imitation,198|157|71|79,"```json
+[
+    {
+        ""caption"": ""A contemplative woman with a halo, seated beside a spiked wheel, symbolizing martyrdom."",
+        ""tags"": [""Renaissance"", ""martyrdom"", ""halo"", ""wheel"", ""portrait""]
+    },
+    {
+        ""caption"": ""Intricate calligraphy with elaborate flourishes and decorative elem","```json|seated beside a spiked wheel|symbolizing martyrdom.""|""tags"": [""Renaissance""|""martyrdom""","Renaissance painting, oil on panel aesthetic, round 0, node 156, religious narrative scene, church guild + court civic patronage, mixed canon and novelty, inter-city motif exchange, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,2.0,0.6,1.6
+0,139,conform,"Renaissance painting, oil on panel aesthetic, round 0, node 139, civic procession in an italian city, church guild + court civic patronage, mixed canon and novelty, inter-city motif exchange, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail. inspired by visible gallery: ```json, ""tags"": [""Renaissance"", ""drama"". reference note: ```json
+[
+    {
+        ""caption"": ""A dramatic scene depicting a group of people in a dynamic composition."",
+        ""tags"": [""Renaissance"", ""drama"", ""figures"", ""movement"", ""landscape""]
+    },
+    {
+        ""caption"": ""A fresco showing a gathering of figures in elaborate attire."",
+        ""tags"": [""",/Users/1532016078qq.com/Desktop/MACS 37005/pj/agentic_simulation/runs_env_plus_artist/batch_runs/batch-3x3-20260306_195611-config_env_plus_artist-t20-sp2x2-gk120/e3-s1-r1-dual_patronage-imitation_only-rr0p00/generated/round_0000/node_0139.png,follower,imitation,72|39|151|98,"```json
+[
+    {
+        ""caption"": ""A dramatic scene depicting a group of people in a dynamic composition."",
+        ""tags"": [""Renaissance"", ""drama"", ""figures"", ""movement"", ""landscape""]
+    },
+    {
+        ""caption"": ""A fresco showing a gathering of figures in elaborate attire."",
+        ""tags"": [""","```json|""tags"": [""Renaissance""|""drama""|""figures""|""movement""","Renaissance painting, oil on panel aesthetic, round 0, node 139, civic procession in an italian city, church guild + court civic patronage, mixed canon and novelty, inter-city motif exchange, mainstream renaissance style, geometric balance, stable lighting, moderate symbolic capital, moderate market visibility, limited influence, museum quality, high detail.",openai,openai/gpt-5-image-mini,openai,openai/gpt-4o,2.0,0.6,1.6

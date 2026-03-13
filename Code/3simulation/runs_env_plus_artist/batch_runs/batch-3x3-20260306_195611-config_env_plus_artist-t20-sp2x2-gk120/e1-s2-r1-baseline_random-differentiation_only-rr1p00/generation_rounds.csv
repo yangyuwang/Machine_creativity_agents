@@ -1,0 +1,12 @@
+round,generated_count,prompt_unique_ratio,rgb_std_mean,center_deviation_proxy,share_imitation,share_differentiation,share_self_consistency,decoded_top_tags
+0,2,1.0,49.03042694652211,0.136559775474641,0.0,1.0,0.0,"```json|""tags"": [""woodcut""|""portrait""|""bearded""|""renaissance"""
+2,2,1.0,36.27499662131221,0.22278593964459076,0.0,1.0,0.0,renaissance|portrait|religious|detailed|expressive
+4,2,1.0,44.65151310060467,0.13891819271800965,0.0,1.0,0.0,"```json|""tags"": [""renaissance""|""religious""|""saints""|""dove"""
+6,2,1.0,40.124789109901094,0.21265708451470178,0.0,1.0,0.0,"```json|""tags"": [""renaissance""|""religious""|""madonna""|""saints"""
+8,2,1.0,36.91722790381386,0.17367890006823633,0.0,1.0,0.0,renaissance|religious|figures|detailed|colorful
+10,2,1.0,36.37405362664404,0.21464074438504382,0.0,1.0,0.0,renaissance|anatomy|religion|human figure|expression
+12,2,1.0,58.584074133517596,0.15958528050164145,0.0,1.0,0.0,"```json|""tags"": [""portrait""|""renaissance""|""fashion""|""fur"""
+14,2,1.0,38.29017940965191,0.16446471511860067,0.0,1.0,0.0,"```json|""tags"": [""portrait""|""renaissance""|""realism""|""profile"""
+16,2,1.0,59.93105125146572,0.19612729637709886,0.0,1.0,0.0,"```json|""tags"": [""portrait""|""armor""|""renaissance""|""noble"""
+18,2,1.0,26.884663115173964,0.1740663792180917,0.0,1.0,0.0,"```json|capturing serene beauty.""|""tags"": [""sketch""|""portrait""|""renaissance"""
+20,2,1.0,53.85465464456219,0.18454827176209926,0.0,1.0,0.0,"```json|""tags"": [""religious""|""figures""|""gothic""|""medieval"""
